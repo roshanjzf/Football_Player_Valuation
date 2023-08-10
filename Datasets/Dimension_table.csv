@@ -1,0 +1,1001 @@
+player_id,name,country_of_citizenship,sub_position,position,foot,height_in_cm,current_club_name,current_club_id_y
+342229,Kylian Mbappe,France,Centre-Forward,Attack,right,178,Paris Saint-Germain,583
+28003,Lionel Messi,Argentina,Right Winger,Attack,left,170,Paris Saint-Germain,583
+418560,Erling Haaland,Norway,Centre-Forward,Attack,left,195,Manchester City,281
+68290,Neymar,Brazil,Left Winger,Attack,right,175,Paris Saint-Germain,583
+134425,Raheem Sterling,England,Left Winger,Attack,right,170,Chelsea FC,631
+50202,Eden Hazard,Belgium,Left Winger,Attack,right,175,Real Madrid,418
+200512,Sadio Mane,Senegal,Left Winger,Attack,right,174,Bayern Munich,27
+88755,Kevin De Bruyne,Belgium,Attacking Midfield,Midfield,right,181,Manchester City,281
+148455,Mohamed Salah,Egypt,Right Winger,Attack,left,175,Liverpool FC,31
+371998,Vinicius Junior,Brazil,Left Winger,Attack,right,176,Real Madrid,418
+125781,Antoine Griezmann,France,Second Striker,Attack,left,176,Atletico de Madrid,13
+80444,Philippe Coutinho,Brazil,Left Winger,Attack,right,172,Aston Villa,405
+132098,Harry Kane,England,Centre-Forward,Attack,right,188,Tottenham Hotspur,148
+401173,Jadon Sancho,England,Left Winger,Attack,right,180,Manchester United,985
+8198,Cristiano Ronaldo,Portugal,Centre-Forward,Attack,right,187,Manchester United,985
+288230,Ousmane Dembele,France,Right Winger,Attack,both,178,FC Barcelona,131
+401923,Victor Osimhen,Nigeria,Centre-Forward,Attack,right,186,SSC Napoli,6195
+433177,Bukayo Saka,England,Right Winger,Attack,left,178,Arsenal FC,11
+581678,Jude Bellingham,England,Central Midfield,Midfield,right,186,Borussia Dortmund,16
+314353,Trent Alexander-Arnold,England,Right-Back,Defender,right,180,Liverpool FC,31
+580195,Jamal Musiala,Germany,Attacking Midfield,Midfield,right,184,Bayern Munich,27
+406635,Phil Foden,England,Left Winger,Attack,left,171,Manchester City,281
+206050,Paulo Dybala,Argentina,Second Striker,Attack,left,177,AS Roma,12
+192565,Leroy Sane,Germany,Right Winger,Attack,left,183,Bayern Munich,27
+139208,Virgil van Dijk,Netherlands,Centre-Back,Defender,right,193,Liverpool FC,31
+96341,Romelu Lukaku,Belgium,Centre-Forward,Attack,left,191,Inter Milan,46
+121483,Jan Oblak,Slovenia,Goalkeeper,Goalkeeper,right,188,Atletico de Madrid,13
+203460,Jack Grealish,England,Left Winger,Attack,right,180,Manchester City,281
+412363,Rodrygo,Brazil,Right Winger,Attack,right,174,Real Madrid,418
+207929,Dele Alli,England,Attacking Midfield,Midfield,right,188,Besiktas JK,114
+462250,Joao Felix,Portugal,Second Striker,Attack,right,181,Chelsea FC,631
+68863,Mauro Icardi,Argentina,Centre-Forward,Attack,right,181,Galatasaray,141
+241641,Bernardo Silva,Portugal,Attacking Midfield,Midfield,left,173,Manchester City,281
+225083,N'Golo Kante,France,Defensive Midfield,Midfield,right,171,Chelsea FC,631
+122153,Paul Pogba,France,Central Midfield,Midfield,both,191,Juventus FC,506
+69633,Christian Eriksen,Denmark,Central Midfield,Midfield,right,182,Manchester United,985
+369081,Federico Valverde,Uruguay,Central Midfield,Midfield,right,182,Real Madrid,418
+683840,Pedri,Spain,Central Midfield,Midfield,right,174,FC Barcelona,131
+131789,Roberto Firmino,Brazil,Centre-Forward,Attack,right,181,Liverpool FC,31
+357164,Rafael Leao,Portugal,Left Winger,Attack,right,188,AC Milan,5
+85288,Isco,Spain,Attacking Midfield,Midfield,right,176,Sevilla FC,368
+316264,Martin Odegaard,,Attacking Midfield,Midfield,left,178,Arsenal FC,11
+646740,Gavi,Spain,Central Midfield,Midfield,right,173,FC Barcelona,131
+159471,Serge Gnabry,Germany,Right Winger,Attack,right,176,Bayern Munich,27
+413112,Aurelien Tchouameni,France,Defensive Midfield,Midfield,right,188,Real Madrid,418
+105470,Alisson,Brazil,Goalkeeper,Goalkeeper,right,193,Liverpool FC,31
+38253,Robert Lewandowski,Poland,Centre-Forward,Attack,right,185,FC Barcelona,131
+148928,Saul Niguez,Spain,Central Midfield,Midfield,left,184,Atletico de Madrid,13
+326330,Frenkie de Jong,Netherlands,Central Midfield,Midfield,right,181,FC Barcelona,131
+74857,Marc-Andre ter Stegen,Germany,Goalkeeper,Goalkeeper,right,187,FC Barcelona,131
+161056,Joshua Kimmich,Germany,Defensive Midfield,Midfield,right,177,Bayern Munich,27
+309400,Kai Havertz,Germany,Attacking Midfield,Midfield,left,193,Chelsea FC,631
+357662,Declan Rice,England,Defensive Midfield,Midfield,right,188,West Ham United,379
+266302,Sergej Milinkovic-Savic,,Central Midfield,Midfield,right,191,SS Lazio,398
+44352,Luis Suarez,Uruguay,Centre-Forward,Attack,right,182,Atletico de Madrid,13
+240306,Bruno Fernandes,Portugal,Attacking Midfield,Midfield,right,179,Manchester United,985
+39381,Gareth Bale,Wales,Right Winger,Attack,left,186,Real Madrid,418
+296622,Marco Asensio,Spain,Right Winger,Attack,left,182,Real Madrid,418
+91845,Heung-min Son,"Korea, South",Left Winger,Attack,both,184,Tottenham Hotspur,148
+357565,Rodri,Spain,Defensive Midfield,Midfield,right,191,Manchester City,281
+406625,Lautaro Martinez,,Centre-Forward,Attack,right,174,Inter Milan,46
+640428,Eduardo Camavinga,,Central Midfield,Midfield,left,182,Real Madrid,418
+357498,Dusan Vlahovic,Serbia,Centre-Forward,Attack,left,190,Juventus FC,506
+258923,Marcus Rashford,England,Left Winger,Attack,right,185,Manchester United,985
+502670,Khvicha Kvaratskhelia,Georgia,Left Winger,Attack,both,183,SSC Napoli,6195
+648195,Enzo Fernandez,Argentina,Defensive Midfield,Midfield,right,178,SL Benfica,294
+598577,Florian Wirtz,Germany,Attacking Midfield,Midfield,right,176,Bayer 04 Leverkusen,15
+88103,James Rodriguez,,Attacking Midfield,Midfield,left,181,Olympiacos Piraeus,683
+424204,Alphonso Davies,Canada,Left-Back,Defender,left,185,Bayern Munich,27
+487969,Randal Kolo Muani,France,Centre-Forward,Attack,right,187,Eintracht Frankfurt,24
+26399,Sergio Aguero,Argentina,Centre-Forward,Attack,right,173,FC Barcelona,131
+258004,Ruben Dias,,Centre-Back,Defender,right,187,Manchester City,281
+170527,Timo Werner,Germany,Centre-Forward,Attack,right,180,RB Leipzig,23826
+234803,Andrew Robertson,Scotland,Left-Back,Defender,left,178,Liverpool FC,31
+16306,Casemiro,Brazil,Defensive Midfield,Midfield,right,185,Manchester United,985
+31909,Toni Kroos,,Central Midfield,Midfield,right,183,Real Madrid,418
+344381,Christopher Nkunku,France,Second Striker,Attack,right,178,RB Leipzig,23826
+363205,Gabriel Jesus,,Centre-Forward,Attack,right,175,Arsenal FC,11
+282411,Marcos Llorente,Spain,Central Midfield,Midfield,right,184,Atletico de Madrid,13
+466810,Ansu Fati,Spain,Left Winger,Attack,right,178,FC Barcelona,131
+655488,Gabriel Martinelli,Brazil,Left Winger,Attack,right,178,Arsenal FC,11
+65230,Sergio Busquets,Spain,Defensive Midfield,Midfield,right,189,FC Barcelona,131
+164770,Raphael Varane,,Centre-Back,Defender,right,191,Manchester United,985
+687626,Moises Caicedo,Ecuador,Defensive Midfield,Midfield,right,178,Brighton & Hove Albion,1237
+58864,Pierre-Emerick Aubameyang,Gabon,Centre-Forward,Attack,right,186,Chelsea FC,631
+475959,Josko Gvardiol,Croatia,Centre-Back,Defender,left,185,RB Leipzig,23826
+102558,Marco Verratti,Italy,Central Midfield,Midfield,right,165,Paris Saint-Germain,583
+480692,Luis Diaz,Colombia,Left Winger,Attack,right,180,Liverpool FC,31
+602105,Antony,Brazil,Right Winger,Attack,left,172,Manchester United,985
+58358,Thomas Muller,Germany,Second Striker,Attack,right,185,Bayern Munich,27
+93128,Kalidou Koulibaly,Senegal,Centre-Back,Defender,right,186,Chelsea FC,631
+176553,Aymeric Laporte,Spain,Centre-Back,Defender,left,189,Manchester City,281
+181767,Marquinhos,Brazil,Centre-Back,Defender,right,183,Paris Saint-Germain,583
+255942,Nicolo Barella,,Central Midfield,Midfield,right,175,Inter Milan,46
+346483,Mason Mount,England,Attacking Midfield,Midfield,right,181,Chelsea FC,631
+343052,Nicolas Pepe,Cote d'Ivoire,Right Winger,Attack,left,183,Arsenal FC,11
+108390,Thibaut Courtois,Belgium,Goalkeeper,Goalkeeper,left,200,Real Madrid,418
+326031,Matthijs de Ligt,Netherlands,Centre-Back,Defender,right,189,Bayern Munich,27
+133964,Lorenzo Insigne,Italy,Left Winger,Attack,right,163,SSC Napoli,6195
+520624,Bruno Guimaraes,Brazil,Defensive Midfield,Midfield,right,182,Newcastle United,762
+205562,Thomas Lemar,,Attacking Midfield,Midfield,left,171,Atletico de Madrid,13
+74229,Koke,Spain,Central Midfield,Midfield,right,176,Atletico de Madrid,13
+225693,Fabinho,Brazil,Defensive Midfield,Midfield,right,188,Liverpool FC,31
+250845,Jose Maria Gimenez,Uruguay,Centre-Back,Defender,right,185,Atletico de Madrid,13
+341092,Federico Chiesa,Italy,Left Winger,Attack,right,175,Juventus FC,506
+69751,Jordi Alba,Spain,Left-Back,Defender,left,170,FC Barcelona,131
+153084,Leon Goretzka,Germany,Central Midfield,Midfield,right,189,Bayern Munich,27
+60444,Thiago,Spain,Central Midfield,Midfield,right,174,Liverpool FC,31
+398073,Achraf Hakimi,Morocco,Right-Back,Defender,right,181,Paris Saint-Germain,583
+472423,Reece James,England,Right-Back,Defender,right,180,Chelsea FC,631
+44162,Miralem Pjanic,Bosnia-Herzegovina,Central Midfield,Midfield,right,178,FC Barcelona,131
+59377,David de Gea,Spain,Goalkeeper,Goalkeeper,right,189,Manchester United,985
+93720,Alexandre Lacazette,France,Centre-Forward,Attack,right,175,Olympique Lyon,1041
+546543,Darwin Nunez,Uruguay,Centre-Forward,Attack,right,187,Liverpool FC,31
+203496,Nabil Fekir,,Attacking Midfield,Midfield,left,173,Real Betis Balompie,150
+40433,Alexis Sanchez,Chile,Centre-Forward,Attack,right,169,Olympique Marseille,244
+182712,Joao Cancelo,Portugal,Right-Back,Defender,right,182,Manchester City,281
+362842,Arthur Melo,,Central Midfield,Midfield,right,172,Liverpool FC,31
+32467,Ivan Rakitic,Croatia,Central Midfield,Midfield,right,184,Sevilla FC,368
+44501,Marcelo,Brazil,Left-Back,Defender,left,174,Olympiacos Piraeus,683
+238223,Ederson,,Goalkeeper,Goalkeeper,left,188,Manchester City,281
+351478,Mikel Oyarzabal,Spain,Left Winger,Attack,left,181,Real Sociedad,681
+281963,Lucas Hernandez,France,Centre-Back,Defender,left,184,Bayern Munich,27
+401530,Eder Militao,,Centre-Back,Defender,right,186,Real Madrid,418
+480267,Ronald Araujo,Uruguay,Centre-Back,Defender,right,188,FC Barcelona,131
+126540,Samuel Umtiti,France,Centre-Back,Defender,left,182,US Lecce,1005
+177907,Harry Maguire,England,Centre-Back,Defender,right,194,Manchester United,985
+349066,Alexander Isak,Sweden,Centre-Forward,Attack,right,192,Newcastle United,762
+45320,Angel Di Maria,Argentina,Right Winger,Attack,left,180,Juventus FC,506
+59016,David Alaba,Austria,Centre-Back,Defender,left,180,Real Madrid,418
+495666,William Saliba,France,Centre-Back,Defender,right,192,Arsenal FC,11
+128223,Alvaro Morata,Spain,Centre-Forward,Attack,right,189,Atletico de Madrid,13
+182877,Anthony Martial,,Centre-Forward,Attack,right,181,Manchester United,985
+475411,Wesley Fofana,France,Centre-Back,Defender,right,186,Leicester City,1003
+302215,Naby Keita,Guinea,Central Midfield,Midfield,right,172,Liverpool FC,31
+243714,Kingsley Coman,France,Left Winger,Attack,right,181,Bayern Munich,27
+534033,Alexis Mac Allister,,Attacking Midfield,Midfield,right,174,Brighton & Hove Albion,1237
+102017,Jorginho,,Defensive Midfield,Midfield,right,178,Chelsea FC,631
+315858,Gianluigi Donnarumma,Italy,Goalkeeper,Goalkeeper,right,196,Paris Saint-Germain,583
+616341,Nuno Mendes,Portugal,Left-Back,Defender,left,183,Paris Saint-Germain,583
+204069,Milan Skriniar,Slovakia,Centre-Back,Defender,right,188,Inter Milan,46
+378710,Richarlison,Brazil,Centre-Forward,Attack,right,184,Tottenham Hotspur,148
+450936,Tanguy Ndombele,France,Central Midfield,Midfield,right,181,SSC Napoli,6195
+18922,Karim Benzema,France,Centre-Forward,Attack,right,185,Real Madrid,418
+411295,Raphinha,Brazil,Right Winger,Attack,left,176,FC Barcelona,131
+44779,Diego Costa,Spain,Centre-Forward,Attack,right,186,Wolverhampton Wanderers,543
+48280,Edinson Cavani,Uruguay,Centre-Forward,Attack,right,184,Valencia CF,1049
+576024,Julian Alvarez,Argentina,Centre-Forward,Attack,right,170,Manchester City,281
+182904,Clement Lenglet,France,Centre-Back,Defender,left,186,Tottenham Hotspur,148
+186590,John Stones,England,Centre-Back,Defender,right,188,Manchester City,281
+315779,Christian Pulisic,United States,Right Winger,Attack,right,177,Chelsea FC,631
+537860,Mykhaylo Mudryk,Ukraine,Left Winger,Attack,right,175,Chelsea FC,631
+126422,Allan,Brazil,Defensive Midfield,Midfield,right,175,Everton FC,29
+344695,Dayot Upamecano,France,Centre-Back,Defender,right,186,Bayern Munich,27
+192279,Kepa Arrizabalaga,Spain,Goalkeeper,Goalkeeper,right,186,Chelsea FC,631
+257462,Luka Jovic,Serbia,Centre-Forward,Attack,both,182,ACF Fiorentina,430
+315853,Alessandro Bastoni,Italy,Centre-Back,Defender,left,190,Inter Milan,46
+350219,Fabian Ruiz,Spain,Central Midfield,Midfield,left,189,Paris Saint-Germain,583
+339808,Theo Hernandez,France,Left-Back,Defender,left,184,AC Milan,5
+39152,Radamel Falcao,Colombia,Centre-Forward,Attack,right,177,Rayo Vallecano,367
+111196,Stefan de Vrij,Netherlands,Centre-Back,Defender,right,189,Inter Milan,46
+434675,Cody Gakpo,,Left Winger,Attack,right,193,Liverpool FC,31
+85370,Sergi Roberto,Spain,Right-Back,Defender,right,178,FC Barcelona,131
+171424,Riyad Mahrez,,Right Winger,Attack,left,179,Manchester City,281
+138927,Daniel Carvajal,Spain,Right-Back,Defender,right,173,Real Madrid,418
+340950,Diogo Jota,Portugal,Left Winger,Attack,right,178,Liverpool FC,31
+533738,Jonathan David,Canada,Centre-Forward,Attack,both,175,LOSC Lille,1082
+156617,Marcelo Brozovic,Croatia,Defensive Midfield,Midfield,both,181,Inter Milan,46
+274839,Wilfred Ndidi,Nigeria,Defensive Midfield,Midfield,right,183,Leicester City,1003
+294057,James Maddison,England,Attacking Midfield,Midfield,right,175,Leicester City,1003
+411975,Jules Kounde,France,Centre-Back,Defender,right,180,FC Barcelona,131
+395516,Moussa Diaby,France,Right Winger,Attack,left,170,Bayer 04 Leverkusen,15
+355915,Cristian Romero,Argentina,Centre-Back,Defender,right,185,Tottenham Hotspur,148
+503482,Min-jae Kim,"Korea, South",Centre-Back,Defender,right,190,SSC Napoli,6195
+166601,Niklas Sule,Germany,Centre-Back,Defender,right,195,Borussia Dortmund,16
+341429,Davinson Sanchez,Colombia,Centre-Back,Defender,right,187,Tottenham Hotspur,148
+39728,Mats Hummels,Germany,Centre-Back,Defender,right,191,Borussia Dortmund,16
+167850,Memphis Depay,Netherlands,Centre-Forward,Attack,right,178,Atletico de Madrid,13
+431755,Dejan Kulusevski,Sweden,Right Winger,Attack,left,186,Tottenham Hotspur,148
+395693,Houssem Aouar,Algeria,Central Midfield,Midfield,right,175,Olympique Lyon,1041
+8806,Cesc Fabregas,Spain,Central Midfield,Midfield,right,179,AS Monaco,162
+392085,Nicolo Zaniolo,Italy,Attacking Midfield,Midfield,left,190,Galatasaray,141
+27992,Luka Modric,Croatia,Central Midfield,Midfield,right,172,Real Madrid,418
+335721,Ben White,England,Right-Back,Defender,right,186,Arsenal FC,11
+318077,Lucas Torreira,Uruguay,Defensive Midfield,Midfield,right,166,Galatasaray,141
+284857,Marc Cucurella,Spain,Left-Back,Defender,left,173,Chelsea FC,631
+288255,Donny van de Beek,Netherlands,Central Midfield,Midfield,right,184,Manchester United,985
+435338,Gabriel Magalhaes,Brazil,Centre-Back,Defender,left,190,Arsenal FC,11
+74842,Mario Gotze,,Attacking Midfield,Midfield,right,176,Eintracht Frankfurt,24
+294808,Franck Kessie,Cote d'Ivoire,Central Midfield,Midfield,right,183,FC Barcelona,131
+128220,Luis Alberto,Spain,Central Midfield,Midfield,right,183,SS Lazio,398
+145988,Wilfried Zaha,Cote d'Ivoire,Left Winger,Attack,right,180,Crystal Palace,873
+249565,Youri Tielemans,Belgium,Central Midfield,Midfield,right,177,Leicester City,1003
+86202,Antonio Rudiger,Germany,Centre-Back,Defender,right,190,Real Madrid,418
+229004,Moussa Dembele,France,Centre-Forward,Attack,right,187,Olympique Lyon,1041
+418659,Amine Gouiri,France,Centre-Forward,Attack,right,181,Stade Rennais FC,273
+25557,Sergio Ramos,Spain,Centre-Back,Defender,right,184,Paris Saint-Germain,583
+182913,Adrien Rabiot,France,Central Midfield,Midfield,left,188,Juventus FC,506
+372246,Carlos Soler,Spain,Central Midfield,Midfield,right,180,Valencia CF,1049
+480762,Lisandro Martinez,Argentina,Centre-Back,Defender,left,175,Manchester United,985
+532826,Mason Greenwood,England,Right Winger,Attack,both,181,Manchester United,985
+18944,Gerard Pique,Spain,Centre-Back,Defender,right,194,FC Barcelona,131
+52769,Willian,Brazil,Left Winger,Attack,right,175,Fulham FC,931
+329145,Diego Carlos,,Centre-Back,Defender,right,185,Aston Villa,405
+35518,David Silva,Spain,Attacking Midfield,Midfield,left,170,Real Sociedad,681
+303254,Fikayo Tomori,England,Centre-Back,Defender,right,185,AC Milan,5
+191614,Fred,Brazil,Central Midfield,Midfield,left,169,Manchester United,985
+79960,Alex Sandro,Brazil,Left-Back,Defender,left,181,Juventus FC,506
+221322,Jose Gaya,Spain,Left-Back,Defender,left,172,Valencia CF,1049
+111961,Suso,Spain,Right Winger,Attack,left,177,Sevilla FC,368
+293385,Dani Olmo,,Attacking Midfield,Midfield,right,179,RB Leipzig,23826
+49499,Georginio Wijnaldum,,Central Midfield,Midfield,right,175,AS Roma,12
+146854,Wissam Ben Yedder,France,Centre-Forward,Attack,both,170,AS Monaco,162
+35664,Mesut Ozil,Germany,Attacking Midfield,Midfield,left,180,Basaksehir FK,6890
+465830,Matteo Guendouzi,,Central Midfield,Midfield,right,185,Olympique Marseille,244
+550550,Goncalo Ramos,Portugal,Centre-Forward,Attack,right,185,SL Benfica,294
+331726,Tammy Abraham,England,Centre-Forward,Attack,right,194,AS Roma,12
+476352,Renan Lodi,,Left-Back,Defender,left,173,Nottingham Forest,703
+242086,Patrik Schick,Czech Republic,Centre-Forward,Attack,left,191,Bayer 04 Leverkusen,15
+399776,Pau Torres,,Centre-Back,Defender,left,191,Villarreal CF,1050
+354362,Rodrigo Bentancur,,Central Midfield,Midfield,right,187,Tottenham Hotspur,148
+53622,Ilkay Gundogan,Germany,Central Midfield,Midfield,right,180,Manchester City,281
+95424,Kyle Walker,England,Right-Back,Defender,right,183,Manchester City,281
+131505,Rodrigo,Spain,Centre-Forward,Attack,left,182,Leeds United,399
+251664,Ivan Toney,England,Centre-Forward,Attack,right,185,Brentford FC,1148
+255508,Inaki Williams,Ghana,Centre-Forward,Attack,right,186,Athletic Bilbao,621
+348795,Giovani Lo Celso,,Central Midfield,Midfield,left,177,Villarreal CF,1050
+111455,Granit Xhaka,Switzerland,Central Midfield,Midfield,left,186,Arsenal FC,11
+291417,Ferland Mendy,France,Left-Back,Defender,left,180,Real Madrid,418
+197747,Alessio Romagnoli,Italy,Centre-Back,Defender,left,185,SS Lazio,398
+217111,Hakim Ziyech,Morocco,Right Winger,Attack,left,181,Chelsea FC,631
+225161,Ruben Neves,Portugal,Defensive Midfield,Midfield,right,180,Wolverhampton Wanderers,543
+398184,Ferran Torres,Spain,Left Winger,Attack,right,184,FC Barcelona,131
+126716,Paco Alcacer,Spain,Centre-Forward,Attack,right,175,Villarreal CF,1050
+189441,Lucas Ocampos,Argentina,Right Winger,Attack,both,187,Sevilla FC,368
+397033,Sandro Tonali,Italy,Defensive Midfield,Midfield,right,181,AC Milan,5
+105521,Ciro Immobile,Italy,Centre-Forward,Attack,right,185,SS Lazio,398
+451276,Dominik Szoboszlai,Hungary,Attacking Midfield,Midfield,right,187,RB Leipzig,23826
+476701,Manuel Ugarte,Uruguay,Defensive Midfield,Midfield,right,182,Sporting CP,336
+22068,Franck Ribery,France,Left Winger,Attack,right,170,US Salernitana 1919,380
+316125,Ben Chilwell,,Left-Back,Defender,left,180,Chelsea FC,631
+351749,Kalvin Phillips,England,Defensive Midfield,Midfield,right,179,Manchester City,281
+206040,Raul Jimenez,,Centre-Forward,Attack,right,188,Wolverhampton Wanderers,543
+230784,Thomas Partey,Ghana,Defensive Midfield,Midfield,right,185,Arsenal FC,11
+338424,Mikel Merino,,Central Midfield,Midfield,left,189,Real Sociedad,681
+636688,Alejandro Balde,Spain,Left-Back,Defender,left,175,FC Barcelona,131
+187492,Julian Brandt,Germany,Attacking Midfield,Midfield,right,185,Borussia Dortmund,16
+181136,Piotr Zielinski,,Central Midfield,Midfield,both,180,SSC Napoli,6195
+355861,Arnaut Danjuma,Netherlands,Left Winger,Attack,right,178,Tottenham Hotspur,148
+184892,Florian Thauvin,France,Right Winger,Attack,left,181,Udinese Calcio,410
+35207,Marco Reus,Germany,Attacking Midfield,Midfield,right,180,Borussia Dortmund,16
+3455,Zlatan Ibrahimovic,Sweden,Centre-Forward,Attack,right,195,AC Milan,5
+190393,Corentin Tolisso,,Central Midfield,Midfield,right,181,Olympique Lyon,1041
+320141,Caglar Soyuncu,,Centre-Back,Defender,both,185,Leicester City,1003
+444523,Lucas Paqueta,Brazil,Attacking Midfield,Midfield,left,180,West Ham United,379
+610442,Rasmus Hojlund,Denmark,Centre-Forward,Attack,left,191,Atalanta BC,800
+44068,Juan Mata,Spain,Attacking Midfield,Midfield,left,170,Galatasaray,141
+234509,Andre Onana,Cameroon,Goalkeeper,Goalkeeper,right,190,Inter Milan,46
+286297,Lorenzo Pellegrini,Italy,Attacking Midfield,Midfield,both,186,AS Roma,12
+357153,Diogo Costa,Portugal,Goalkeeper,Goalkeeper,right,186,FC Porto,720
+39983,Leonardo Bonucci,Italy,Centre-Back,Defender,right,190,Juventus FC,506
+50057,Aaron Ramsey,Wales,Central Midfield,Midfield,right,178,OGC Nice,417
+601883,Matheus Nunes,Portugal,Central Midfield,Midfield,right,183,Sporting CP,336
+159372,Felipe Anderson,Brazil,Right Winger,Attack,right,175,SS Lazio,398
+26485,Jerome Boateng,Germany,Centre-Back,Defender,right,192,Olympique Lyon,1041
+51471,Mateo Kovacic,Croatia,Central Midfield,Midfield,right,177,Chelsea FC,631
+73794,Duwan Zapata,Colombia,Centre-Forward,Attack,right,189,Atalanta BC,800
+182906,Mike Maignan,France,Goalkeeper,Goalkeeper,right,191,AC Milan,5
+157495,Benjamin Mendy,France,Left-Back,Defender,left,185,Manchester City,281
+197300,Federico Bernardeschi,Italy,Right Winger,Attack,left,183,Juventus FC,506
+104752,Konstantinos Manolas,Greece,Centre-Back,Defender,right,185,Olympiacos Piraeus,683
+319745,Dani Ceballos,Spain,Central Midfield,Midfield,right,179,Real Madrid,418
+353366,Benjamin Pavard,France,Right-Back,Defender,right,186,Bayern Munich,27
+361093,Sven Botman,Netherlands,Centre-Back,Defender,left,195,Newcastle United,762
+420243,Jurrien Timber,Netherlands,Centre-Back,Defender,right,182,Ajax Amsterdam,610
+469822,David Neres,Brazil,Right Winger,Attack,left,176,SL Benfica,294
+167799,Pierre-Emile Hojbjerg,Denmark,Central Midfield,Midfield,right,185,Tottenham Hotspur,148
+650568,Antonio Silva,Portugal,Centre-Back,Defender,right,187,SL Benfica,294
+266807,Angel Correa,Argentina,Right Winger,Attack,right,171,Atletico de Madrid,13
+334526,Denis Zakaria,Switzerland,Defensive Midfield,Midfield,right,190,Juventus FC,506
+41982,Radja Nainggolan,,Central Midfield,Midfield,right,177,Royal Antwerp FC,1096
+112515,Marcos Alonso,Spain,Left-Back,Defender,left,188,FC Barcelona,131
+283628,Tomas Soucek,Czech Republic,Defensive Midfield,Midfield,right,192,West Ham United,379
+306024,Dominic Calvert-Lewin,England,Centre-Forward,Attack,right,189,Everton FC,29
+485706,Amadou Onana,Belgium,Defensive Midfield,Midfield,right,195,Everton FC,29
+17259,Manuel Neuer,Germany,Goalkeeper,Goalkeeper,right,193,Bayern Munich,27
+357119,Ibrahima Konate,France,Centre-Back,Defender,right,194,Liverpool FC,31
+42460,Ivan Perisic,Croatia,Left Midfield,Midfield,both,186,Tottenham Hotspur,148
+37666,Arturo Vidal,Chile,Central Midfield,Midfield,right,180,Inter Milan,46
+387626,Leon Bailey,Jamaica,Left Winger,Attack,left,178,Aston Villa,405
+487469,Vitinha,Portugal,Central Midfield,Midfield,right,172,Paris Saint-Germain,583
+198008,Andre Silva,Portugal,Centre-Forward,Attack,right,185,RB Leipzig,23826
+323704,Malcom,Brazil,Right Winger,Attack,left,171,Zenit St. Petersburg,964
+316889,Hirving Lozano,Mexico,Right Winger,Attack,right,175,SSC Napoli,6195
+181375,Sebastien Haller,Cote d'Ivoire,Centre-Forward,Attack,right,191,Borussia Dortmund,16
+102226,Thorgan Hazard,Belgium,Left Winger,Attack,right,175,Borussia Dortmund,16
+106987,Marcel Sabitzer,Austria,Central Midfield,Midfield,right,177,Manchester United,985
+256178,Joe Gomez,England,Centre-Back,Defender,right,188,Liverpool FC,31
+183288,Luke Shaw,England,Left-Back,Defender,left,178,Manchester United,985
+177476,Nathan Ake,,Centre-Back,Defender,left,180,Manchester City,281
+503749,Jacob Ramsey,England,Central Midfield,Midfield,right,180,Aston Villa,405
+203853,Oleksandr Zinchenko,Ukraine,Left-Back,Defender,left,175,Arsenal FC,11
+314875,Jarrod Bowen,England,Right Winger,Attack,left,182,West Ham United,379
+333241,Joelinton,Brazil,Attacking Midfield,Midfield,right,186,Newcastle United,762
+504215,Giovanni Reyna,,Attacking Midfield,Midfield,right,185,Borussia Dortmund,16
+74683,Nemanja Matic,,Defensive Midfield,Midfield,left,194,AS Roma,12
+107010,Stefan Savic,Montenegro,Centre-Back,Defender,right,187,Atletico de Madrid,13
+324690,Jonathan Ikone,France,Right Winger,Attack,left,175,ACF Fiorentina,430
+167727,Andrea Belotti,Italy,Centre-Forward,Attack,right,181,AS Roma,12
+57500,Cesar Azpilicueta,Spain,Right-Back,Defender,right,178,Chelsea FC,631
+82105,Joel Matip,Cameroon,Centre-Back,Defender,right,195,Liverpool FC,31
+568157,Yeremy Pino,Spain,Right Winger,Attack,right,172,Villarreal CF,1050
+282041,Presnel Kimpembe,France,Centre-Back,Defender,left,183,Paris Saint-Germain,583
+74230,Pablo Sarabia,Spain,Right Winger,Attack,left,174,Wolverhampton Wanderers,543
+187587,Ante Rebic,Croatia,Left Winger,Attack,right,185,AC Milan,5
+318528,Marcus Thuram,France,Centre-Forward,Attack,right,192,Borussia Mönchengladbach,18
+564545,Edmond Tapsoba,Burkina Faso,Centre-Back,Defender,right,194,Bayer 04 Leverkusen,15
+566931,Xavi Simons,,Attacking Midfield,Midfield,right,179,PSV Eindhoven,383
+463618,Khephren Thuram,France,Central Midfield,Midfield,right,192,OGC Nice,417
+484547,Jeremie Frimpong,Netherlands,Right-Back,Defender,right,171,Bayer 04 Leverkusen,15
+231572,Nelson Semedo,Portugal,Right-Back,Defender,right,177,Wolverhampton Wanderers,543
+396894,Maxi Gomez,,Centre-Forward,Attack,right,186,Trabzonspor,449
+463603,Benoit Badiashile,France,Centre-Back,Defender,left,194,Chelsea FC,631
+516716,Bremer,Brazil,Centre-Back,Defender,right,188,Juventus FC,506
+196357,Jonathan Tah,Germany,Centre-Back,Defender,right,195,Bayer 04 Leverkusen,15
+255755,Alex Telles,,Left-Back,Defender,left,181,Sevilla FC,368
+192735,Stanislav Lobotka,Slovakia,Defensive Midfield,Midfield,both,170,SSC Napoli,6195
+327757,Krzysztof Piatek,Poland,Centre-Forward,Attack,right,183,US Salernitana 1919,380
+571604,Giorgio Scalvini,Italy,Centre-Back,Defender,right,194,Atalanta BC,800
+35047,Axel Witsel,,Defensive Midfield,Midfield,right,186,Atletico de Madrid,13
+38593,Marek Hamsik,Slovakia,Central Midfield,Midfield,both,183,Trabzonspor,449
+166237,Leandro Paredes,Argentina,Defensive Midfield,Midfield,right,180,Juventus FC,506
+191891,Arkadiusz Milik,Poland,Centre-Forward,Attack,left,186,Juventus FC,506
+215876,Ricardo Pereira,,Right-Back,Defender,right,175,Leicester City,1003
+357147,Diogo Dalot,Portugal,Right-Back,Defender,right,183,Manchester United,985
+543499,Mohammed Kudus,Ghana,Attacking Midfield,Midfield,left,177,Ajax Amsterdam,610
+54928,Diego Godin,Uruguay,Centre-Back,Defender,right,187,Cagliari Calcio,1390
+204103,Adama Traore,Spain,Right Winger,Attack,right,178,Wolverhampton Wanderers,543
+364135,Moise Kean,,Centre-Forward,Attack,right,183,Juventus FC,506
+447661,Douglas Luiz,Brazil,Central Midfield,Midfield,right,177,Aston Villa,405
+479999,Eberechi Eze,England,Attacking Midfield,Midfield,right,178,Crystal Palace,873
+503733,Anthony Gordon,England,Left Winger,Attack,right,182,Everton FC,29
+44058,Wojciech Szczesny,Poland,Goalkeeper,Goalkeeper,right,196,Juventus FC,506
+191217,Hector Bellerin,Spain,Right-Back,Defender,right,178,Sporting CP,336
+429014,Morgan Gibbs-White,England,Attacking Midfield,Midfield,right,178,Nottingham Forest,703
+553875,Pedro Porro,Spain,Right-Back,Defender,right,173,Sporting CP,336
+225122,Goncalo Guedes,,Left Winger,Attack,right,179,SL Benfica,294
+427568,Aaron Ramsdale,England,Goalkeeper,Goalkeeper,right,190,Arsenal FC,11
+477758,Aaron Wan-Bissaka,England,Right-Back,Defender,right,183,Manchester United,985
+85148,Julian Draxler,Germany,Left Winger,Attack,right,185,SL Benfica,294
+423440,Martin Zubimendi,,Defensive Midfield,Midfield,right,181,Real Sociedad,681
+143424,Alex Oxlade-Chamberlain,England,Central Midfield,Midfield,right,175,Liverpool FC,31
+351816,Ismael Bennacer,Algeria,Defensive Midfield,Midfield,left,175,AC Milan,5
+130164,Jordan Pickford,England,Goalkeeper,Goalkeeper,left,185,Everton FC,29
+29241,Thiago Silva,Brazil,Centre-Back,Defender,right,181,Chelsea FC,631
+177467,Gerard Moreno,Spain,Centre-Forward,Attack,left,180,Villarreal CF,1050
+140776,Yannick Carrasco,,Left Winger,Attack,right,181,Atletico de Madrid,13
+257455,Joao Palhinha,Portugal,Defensive Midfield,Midfield,right,190,Fulham FC,931
+284730,Manuel Akanji,Switzerland,Centre-Back,Defender,right,188,Manchester City,281
+141660,Jesse Lingard,England,Attacking Midfield,Midfield,right,174,Nottingham Forest,703
+196948,Andreas Christensen,Denmark,Centre-Back,Defender,right,187,FC Barcelona,131
+249126,Harry Winks,England,Defensive Midfield,Midfield,right,178,UC Sampdoria,1038
+42710,Toby Alderweireld,Belgium,Centre-Back,Defender,right,187,Royal Antwerp FC,1096
+126414,Hakan Calhanoglu,Turkey,Central Midfield,Midfield,right,178,Inter Milan,46
+161011,Filip Kostic,Serbia,Left Midfield,Midfield,left,184,Juventus FC,506
+433049,Youssef En-Nesyri,,Centre-Forward,Attack,left,192,Sevilla FC,368
+255901,Rodrigo de Paul,Argentina,Central Midfield,Midfield,right,180,Atletico de Madrid,13
+272642,Allan Saint-Maximin,France,Left Winger,Attack,right,173,Newcastle United,762
+321239,Everton,Brazil,Left Winger,Attack,right,174,SL Benfica,294
+392765,Emile Smith Rowe,,Attacking Midfield,Midfield,right,182,Arsenal FC,11
+624690,Manu Kone,France,Central Midfield,Midfield,right,185,Borussia Mönchengladbach,18
+179184,Michy Batshuayi,Belgium,Centre-Forward,Attack,right,185,Fenerbahce,36
+182618,Tiemoue Bakayoko,France,Defensive Midfield,Midfield,right,189,AC Milan,5
+324358,Ollie Watkins,England,Centre-Forward,Attack,right,180,Aston Villa,405
+170986,Raphael Guerreiro,Portugal,Left-Back,Defender,left,170,Borussia Dortmund,16
+496094,Karim Adeyemi,Germany,Left Winger,Attack,left,180,Borussia Dortmund,16
+354361,Frank Anguissa,Cameroon,Central Midfield,Midfield,right,184,SSC Napoli,6195
+77100,Lucas Moura,Brazil,Right Winger,Attack,right,172,Tottenham Hotspur,148
+175722,Eric Dier,England,Centre-Back,Defender,right,188,Tottenham Hotspur,148
+119296,Emre Can,Germany,Defensive Midfield,Midfield,right,186,Borussia Dortmund,16
+388198,Nico Schlotterbeck,Germany,Centre-Back,Defender,left,191,Borussia Dortmund,16
+240414,Alex Meret,Italy,Goalkeeper,Goalkeeper,left,190,SSC Napoli,6195
+566723,Michael Olise,France,Right Winger,Attack,left,184,Crystal Palace,873
+167329,Alassane Plea,,Left Winger,Attack,right,181,Borussia Mönchengladbach,18
+46580,Andrej Kramaric,Croatia,Centre-Forward,Attack,right,177,TSG 1899 Hoffenheim,533
+470607,Brennan Johnson,Wales,Attacking Midfield,Midfield,right,179,Nottingham Forest,703
+426620,Pedro Goncalves,Portugal,Left Winger,Attack,right,173,Sporting CP,336
+278332,Florian Neuhaus,Germany,Central Midfield,Midfield,right,185,Borussia Mönchengladbach,18
+181579,James Ward-Prowse,England,Central Midfield,Midfield,right,177,Southampton FC,180
+215599,Lukas Klostermann,Germany,Right-Back,Defender,right,189,RB Leipzig,23826
+227081,Joaquin Correa,Argentina,Second Striker,Attack,right,188,Inter Milan,46
+340329,Joe Willock,England,Central Midfield,Midfield,right,186,Newcastle United,762
+487465,Pedro Neto,Portugal,Right Winger,Attack,left,172,Wolverhampton Wanderers,543
+55735,Henrikh Mkhitaryan,Armenia,Central Midfield,Midfield,both,177,Inter Milan,46
+394327,Boubacar Kamara,France,Defensive Midfield,Midfield,right,184,Aston Villa,405
+33706,Nani,Portugal,Left Winger,Attack,both,177,Venezia FC,607
+15951,Dani Alves,Brazil,Right-Back,Defender,right,172,FC Barcelona,131
+193082,Alejandro Grimaldo,Spain,Left-Back,Defender,left,171,SL Benfica,294
+286384,Eric Bailly,Cote d'Ivoire,Centre-Back,Defender,right,187,Olympique Marseille,244
+54781,Nicolas Otamendi,Argentina,Centre-Back,Defender,right,183,SL Benfica,294
+149729,Joao Mario,Portugal,Central Midfield,Midfield,right,179,SL Benfica,294
+228948,Thilo Kehrer,,Centre-Back,Defender,right,186,West Ham United,379
+368887,Loic Openda,Belgium,Centre-Forward,Attack,right,177,RC Lens,826
+375885,Ibrahim Sangare,Cote d'Ivoire,Defensive Midfield,Midfield,right,191,PSV Eindhoven,383
+565822,Harvey Elliott,England,Attacking Midfield,Midfield,left,170,Liverpool FC,31
+61651,Jordan Henderson,England,Central Midfield,Midfield,right,187,Liverpool FC,31
+177843,Domenico Berardi,Italy,Right Winger,Attack,left,183,US Sassuolo,6574
+277179,Angelino,Spain,Left-Back,Defender,left,171,TSG 1899 Hoffenheim,533
+454567,Orkun Kokcu,Turkey,Central Midfield,Midfield,both,175,Feyenoord Rotterdam,234
+405885,Giacomo Raspadori,Italy,Second Striker,Attack,both,172,US Sassuolo,6574
+432090,Nicolo Fagioli,Italy,Central Midfield,Midfield,right,178,Juventus FC,506
+21369,Arda Turan,Turkey,Left Winger,Attack,right,177,Galatasaray,141
+82009,Kevin Volland,Germany,Centre-Forward,Attack,left,179,AS Monaco,162
+157509,Kurt Zouma,France,Centre-Back,Defender,right,190,West Ham United,379
+272999,Miguel Almiron,Paraguay,Right Winger,Attack,left,174,Newcastle United,762
+392757,Marc Guehi,England,Centre-Back,Defender,right,182,Crystal Palace,873
+164771,Jordan Veretout,France,Defensive Midfield,Midfield,right,177,Olympique Marseille,244
+257448,Gelson Martins,Portugal,Right Winger,Attack,right,170,AS Monaco,162
+265088,Manuel Locatelli,Italy,Defensive Midfield,Midfield,right,185,Juventus FC,506
+315969,Scott McTominay,Scotland,Defensive Midfield,Midfield,right,191,Manchester United,985
+341647,Cengiz Under,Turkey,Right Winger,Attack,left,173,Olympique Marseille,244
+361914,Nayef Aguerd,Morocco,Centre-Back,Defender,left,190,West Ham United,379
+543387,Cheick Doucoure,Mali,Defensive Midfield,Midfield,right,180,Crystal Palace,873
+157635,Yussuf Poulsen,,Centre-Forward,Attack,right,192,RB Leipzig,23826
+344598,Dan-Axel Zagadou,France,Centre-Back,Defender,left,196,VfB Stuttgart,79
+442891,Martin Terrier,,Left Winger,Attack,right,184,Stade Rennais FC,273
+126664,Lucas Digne,France,Left-Back,Defender,left,178,Aston Villa,405
+659813,Piero Hincapie,Ecuador,Centre-Back,Defender,left,183,Bayer 04 Leverkusen,15
+59561,Dani Parejo,Spain,Central Midfield,Midfield,right,182,Villarreal CF,1050
+131225,Nicolas Tagliafico,Argentina,Left-Back,Defender,left,172,Olympique Lyon,1041
+184573,Victor Lindelof,Sweden,Centre-Back,Defender,right,187,Manchester United,985
+198116,Federico Dimarco,Italy,Left-Back,Defender,left,175,Inter Milan,46
+229005,Abdou Diallo,Senegal,Centre-Back,Defender,left,187,RB Leipzig,23826
+659542,Elye Wahi,France,Centre-Forward,Attack,right,184,Montpellier HSC,969
+50201,Christian Benteke,Belgium,Centre-Forward,Attack,right,190,Crystal Palace,873
+272622,Issa Diop,France,Centre-Back,Defender,right,194,Fulham FC,931
+281769,Mario Hermoso,,Centre-Back,Defender,left,184,Atletico de Madrid,13
+398065,Harvey Barnes,England,Left Winger,Attack,right,182,Leicester City,1003
+144028,Leandro Trossard,Belgium,Left Winger,Attack,right,172,Brighton & Hove Albion,1237
+291739,Milot Rashica,,Right Winger,Attack,right,177,Galatasaray,141
+58884,Nacho Fernandez,Spain,Centre-Back,Defender,right,180,Real Madrid,418
+90681,Eliaquim Mangala,France,Centre-Back,Defender,left,187,AS Saint-Étienne,618
+111873,Emiliano Martinez,Argentina,Goalkeeper,Goalkeeper,right,195,Aston Villa,405
+231289,Otavio,Portugal,Attacking Midfield,Midfield,right,172,FC Porto,720
+585949,Pierre Kalulu,France,Centre-Back,Defender,right,182,AC Milan,5
+321247,Emiliano Buendia,Argentina,Right Winger,Attack,right,172,Aston Villa,405
+401356,Edson Alvarez,Mexico,Defensive Midfield,Midfield,right,187,Ajax Amsterdam,610
+413507,Nikola Milenkovic,Serbia,Centre-Back,Defender,right,195,ACF Fiorentina,430
+424042,Nahuel Molina,Argentina,Right-Back,Defender,right,175,Atletico de Madrid,13
+478573,Ryan Gravenberch,Netherlands,Central Midfield,Midfield,right,190,Bayern Munich,27
+90466,Gylfi Sigurdsson,Iceland,Attacking Midfield,Midfield,right,186,Everton FC,29
+284165,Steven Bergwijn,Netherlands,Left Winger,Attack,right,178,Ajax Amsterdam,610
+351809,Robin Le Normand,Spain,Centre-Back,Defender,right,187,Real Sociedad,681
+41384,Marko Arnautovic,Austria,Centre-Forward,Attack,both,192,Bologna FC 1909,1025
+72476,Bernd Leno,Germany,Goalkeeper,Goalkeeper,right,190,Fulham FC,931
+95810,Kieran Trippier,England,Right-Back,Defender,right,173,Newcastle United,762
+124502,Matthias Ginter,Germany,Centre-Back,Defender,right,191,SC Freiburg,60
+273132,Robin Gosens,Germany,Left Midfield,Midfield,left,183,Inter Milan,46
+192635,Nico Elvedi,,Centre-Back,Defender,right,189,Borussia Mönchengladbach,18
+392768,Callum Hudson-Odoi,England,Left Winger,Attack,right,178,Chelsea FC,631
+413039,Bryan Mbeumo,,Right Winger,Attack,left,171,Brentford FC,1148
+100986,Thomas Meunier,Belgium,Right-Back,Defender,right,191,Borussia Dortmund,16
+257814,Gregor Kobel,,Goalkeeper,Goalkeeper,right,194,Borussia Dortmund,16
+392775,Ryan Sessegnon,England,Left Midfield,Midfield,left,178,Tottenham Hotspur,148
+410425,Yves Bissouma,Mali,Central Midfield,Midfield,right,182,Tottenham Hotspur,148
+74223,Jack Wilshere,England,Central Midfield,Midfield,left,172,Aarhus GF,678
+43250,Jan Vertonghen,Belgium,Centre-Back,Defender,left,189,SL Benfica,294
+260827,Joachim Andersen,Denmark,Centre-Back,Defender,right,192,Crystal Palace,873
+442531,Edouard Mendy,Senegal,Goalkeeper,Goalkeeper,right,194,Chelsea FC,631
+371149,Evan Ndicka,,Centre-Back,Defender,left,192,Eintracht Frankfurt,24
+628451,Romeo Lavia,Belgium,Defensive Midfield,Midfield,right,181,Southampton FC,180
+253677,Tyrone Mings,England,Centre-Back,Defender,left,196,Aston Villa,405
+488362,Conor Gallagher,England,Central Midfield,Midfield,right,182,Chelsea FC,631
+26267,Fernandinho,Brazil,Defensive Midfield,Midfield,right,179,Manchester City,281
+182893,Seko Fofana,,Central Midfield,Midfield,right,185,RC Lens,826
+91970,Juan Cuadrado,Colombia,Right Midfield,Midfield,right,176,Juventus FC,506
+349599,Pervis Estupinan,Ecuador,Left-Back,Defender,left,175,Brighton & Hove Albion,1237
+504849,Kaoru Mitoma,Japan,Left Winger,Attack,right,178,Brighton & Hove Albion,1237
+168157,Leander Dendoncker,Belgium,Defensive Midfield,Midfield,right,188,Aston Villa,405
+28396,Edin Dzeko,Bosnia-Herzegovina,Centre-Forward,Attack,right,193,Inter Milan,46
+56416,Dries Mertens,Belgium,Second Striker,Attack,right,169,Galatasaray,141
+156501,Felipe,Brazil,Centre-Back,Defender,right,190,Nottingham Forest,703
+300716,Kieran Tierney,,Left-Back,Defender,left,180,Arsenal FC,11
+361260,Ozan Kabak,Turkey,Centre-Back,Defender,right,187,TSG 1899 Hoffenheim,533
+158863,Inigo Martinez,Spain,Centre-Back,Defender,left,182,Athletic Bilbao,621
+125858,Kerem Demirbay,Germany,Central Midfield,Midfield,left,183,Bayer 04 Leverkusen,15
+193116,John McGinn,Scotland,Central Midfield,Midfield,left,178,Aston Villa,405
+403151,Robert Sanchez,Spain,Goalkeeper,Goalkeeper,right,197,Brighton & Hove Albion,1237
+242631,Alex Iwobi,Nigeria,Attacking Midfield,Midfield,right,183,Everton FC,29
+517894,Matheus Cunha,Brazil,Centre-Forward,Attack,right,183,Wolverhampton Wanderers,543
+45146,Mario Balotelli,Italy,Centre-Forward,Attack,right,189,Adana Demirspor,3840
+65278,Pedro,Spain,Right Winger,Attack,both,167,SS Lazio,398
+262749,David Raya,Spain,Goalkeeper,Goalkeeper,right,183,Brentford FC,1148
+29364,Joao Moutinho,Portugal,Central Midfield,Midfield,right,170,Wolverhampton Wanderers,543
+289446,Yerry Mina,Colombia,Centre-Back,Defender,right,195,Everton FC,29
+336869,Marc Roca,,Defensive Midfield,Midfield,left,184,Leeds United,399
+386047,Axel Disasi,France,Centre-Back,Defender,right,190,AS Monaco,162
+537598,Fabio Vieira,Portugal,Attacking Midfield,Midfield,left,170,Arsenal FC,11
+125165,Tecatito,Mexico,Right Winger,Attack,both,173,Sevilla FC,368
+123682,Callum Wilson,England,Centre-Forward,Attack,right,180,Newcastle United,762
+207877,Ruslan Malinovskyi,Ukraine,Attacking Midfield,Midfield,left,181,Atalanta BC,800
+221150,Djene,Togo,Centre-Back,Defender,right,178,Getafe CF,3709
+238752,Keita Balde,Senegal,Centre-Forward,Attack,both,178,Spartak Moscow,232
+258027,Renato Sanches,Portugal,Central Midfield,Midfield,right,176,Paris Saint-Germain,583
+284854,Carles Aleñá,Spain,Central Midfield,Midfield,left,180,Getafe CF,3709
+309110,Brais Mendez,Spain,Attacking Midfield,Midfield,left,184,Real Sociedad,681
+381362,Wesley Moraes,Brazil,Centre-Forward,Attack,right,191,Aston Villa,405
+699704,Gabri Veiga,Spain,Central Midfield,Midfield,right,185,Celta de Vigo,940
+122155,Willian Jose,Brazil,Centre-Forward,Attack,right,189,Real Betis Balompie,150
+127189,Geoffrey Kondogbia,Central African Republic,Defensive Midfield,Midfield,left,188,Atletico de Madrid,13
+433188,Curtis Jones,England,Central Midfield,Midfield,right,185,Liverpool FC,31
+287579,Sofyan Amrabat,Morocco,Defensive Midfield,Midfield,right,185,ACF Fiorentina,430
+393323,Brenden Aaronson,United States,Attacking Midfield,Midfield,right,177,Leeds United,399
+34870,Roberto Soldado,Spain,Centre-Forward,Attack,right,180,Levante UD,3368
+709187,Nico Williams,Spain,Right Winger,Attack,right,181,Athletic Bilbao,621
+256448,Gianluca Mancini,Italy,Centre-Back,Defender,right,190,AS Roma,12
+372711,Amine Harit,Morocco,Attacking Midfield,Midfield,right,180,Olympique Marseille,244
+410225,Ismael Sarr,Senegal,Right Winger,Attack,right,185,Watford FC,1010
+525247,Max Kilman,England,Centre-Back,Defender,left,194,Wolverhampton Wanderers,543
+46104,Stevan Jovetic,Montenegro,Centre-Forward,Attack,right,183,Hertha BSC,44
+246968,Ayoze Perez,Spain,Left Winger,Attack,right,178,Leicester City,1003
+293200,Nikola Vlasic,Croatia,Attacking Midfield,Midfield,right,178,Torino FC,416
+262396,Unai Simon,,Goalkeeper,Goalkeeper,right,190,Athletic Bilbao,621
+263727,Joan Jordan,Spain,Central Midfield,Midfield,right,185,Sevilla FC,368
+56818,Morgan Schneiderlin,France,Defensive Midfield,Midfield,right,186,OGC Nice,417
+181778,Emerson,Italy,Left-Back,Defender,left,176,West Ham United,379
+182894,Jean-Philippe Gbamin,Cote d'Ivoire,Defensive Midfield,Midfield,right,186,Trabzonspor,449
+776890,Nicolas Jackson,Senegal,Centre-Forward,Attack,right,188,Villarreal CF,1050
+543382,Mohamed Camara,Mali,Defensive Midfield,Midfield,right,173,AS Monaco,162
+571743,Armando Broja,Albania,Centre-Forward,Attack,right,191,Chelsea FC,631
+605184,Jean-Clair Todibo,France,Centre-Back,Defender,right,190,OGC Nice,417
+126665,Idrissa Gueye,Senegal,Central Midfield,Midfield,right,174,Everton FC,29
+277033,David Brooks,Wales,Right Winger,Attack,left,173,AFC Bournemouth,989
+412669,Trincao,Portugal,Right Winger,Attack,left,184,Sporting CP,336
+524481,Roger Ibanez,Brazil,Centre-Back,Defender,right,186,AS Roma,12
+557459,Micky van de Ven,Netherlands,Centre-Back,Defender,left,193,VfL Wolfsburg,82
+50174,Danny Rose,England,Left-Back,Defender,left,173,Watford FC,1010
+118534,Michael Keane,,Centre-Back,Defender,right,188,Everton FC,29
+263918,Aleksandr Golovin,Russia,Attacking Midfield,Midfield,right,178,AS Monaco,162
+265078,Patrick Cutrone,Italy,Centre-Forward,Attack,right,183,FC Empoli,749
+346289,Mouctar Diakhaby,Guinea,Centre-Back,Defender,right,192,Valencia CF,1049
+405398,Takefusa Kubo,Japan,Right Winger,Attack,left,173,Real Sociedad,681
+406040,Ademola Lookman,Nigeria,Second Striker,Attack,right,174,Atalanta BC,800
+571020,Oihan Sancet,,Attacking Midfield,Midfield,right,188,Athletic Bilbao,621
+255488,Yeray Alvarez,Spain,Centre-Back,Defender,right,182,Athletic Bilbao,621
+401922,Samuel Chukwueze,Nigeria,Right Winger,Attack,left,172,Villarreal CF,1050
+255653,Santi Mina,Spain,Centre-Forward,Attack,right,181,Celta de Vigo,940
+280730,Alvaro Odriozola,,Right-Back,Defender,right,176,Real Madrid,418
+283735,Mattia Zaccagni,Italy,Left Winger,Attack,right,177,SS Lazio,398
+314367,Marcus Edwards,England,Right Winger,Attack,left,168,Sporting CP,336
+486031,Nicolas Gonzalez,Argentina,Left Winger,Attack,left,180,ACF Fiorentina,430
+102740,Mario Fernandes,Russia,Right-Back,Defender,right,187,CSKA Moscow,2410
+100131,William Carvalho,Portugal,Defensive Midfield,Midfield,right,187,Real Betis Balompie,150
+131978,Ross Barkley,England,Central Midfield,Midfield,right,189,OGC Nice,417
+221025,Andre Gomes,,Central Midfield,Midfield,right,188,Everton FC,29
+355628,Igor Zubeldia,Spain,Centre-Back,Defender,right,181,Real Sociedad,681
+99343,Ander Herrera,Spain,Central Midfield,Midfield,right,182,Athletic Bilbao,621
+476344,Emerson Royal,Brazil,Right-Back,Defender,right,183,Tottenham Hotspur,148
+17965,Hugo Lloris,France,Goalkeeper,Goalkeeper,left,188,Tottenham Hotspur,148
+141050,Danilo Pereira,Portugal,Defensive Midfield,Midfield,right,188,Paris Saint-Germain,583
+146795,Ryan Fraser,Scotland,Left Winger,Attack,right,163,Newcastle United,762
+190284,Maximilian Eggestein,Germany,Central Midfield,Midfield,right,181,SC Freiburg,60
+216179,Stefano Sensi,Italy,Central Midfield,Midfield,right,168,AC Monza,2919
+503770,Folarin Balogun,United States,Centre-Forward,Attack,right,178,Stade Reims,1421
+549006,Goncalo Inacio,Portugal,Centre-Back,Defender,left,185,Sporting CP,336
+607223,Rayan Cherki,France,Attacking Midfield,Midfield,both,177,Olympique Lyon,1041
+130365,Alessandro Florenzi,Italy,Right-Back,Defender,right,173,AC Milan,5
+648046,Evan Ferguson,Ireland,Centre-Forward,Attack,right,183,Brighton & Hove Albion,1237
+196792,Julian Weigl,Germany,Defensive Midfield,Midfield,right,186,SL Benfica,294
+238055,Rafa,Portugal,Left Winger,Attack,right,172,SL Benfica,294
+315867,Gianluca Scamacca,,Centre-Forward,Attack,right,195,West Ham United,379
+340879,Merih Demiral,Turkey,Centre-Back,Defender,right,190,Atalanta BC,800
+55215,Javier Pastore,Argentina,Attacking Midfield,Midfield,right,187,Elche CF,1531
+435772,Charles De Ketelaere,Belgium,Attacking Midfield,Midfield,left,192,AC Milan,5
+614258,Levi Colwill,England,Centre-Back,Defender,left,187,Brighton & Hove Albion,1237
+15956,Jesus Navas,Spain,Right-Back,Defender,right,170,Sevilla FC,368
+111630,Erik Lamela,Argentina,Right Winger,Attack,left,184,Sevilla FC,368
+202886,Ruben Loftus-Cheek,England,Central Midfield,Midfield,right,191,Chelsea FC,631
+14132,Pepe,Portugal,Centre-Back,Defender,right,187,FC Porto,720
+37647,Dimitri Payet,France,Attacking Midfield,Midfield,right,175,Olympique Marseille,244
+67082,Vitolo,Spain,Left Winger,Attack,right,184,Getafe CF,3709
+75442,Nico Gatien,Argentina,Attacking Midfield,Midfield,left,174,FC Paços de Ferreira,2995
+94529,Stephan El Shaarawy,,Left Winger,Attack,right,178,AS Roma,12
+223967,Konrad Laimer,,Central Midfield,Midfield,right,180,RB Leipzig,23826
+45184,Grzegorz Krychowiak,Poland,Defensive Midfield,Midfield,right,187,Lokomotiv Moscow,932
+356141,Daichi Kamada,Japan,Attacking Midfield,Midfield,right,184,Eintracht Frankfurt,24
+357885,Pablo Fornals,,Attacking Midfield,Midfield,right,178,West Ham United,379
+503987,Noni Madueke,,Right Winger,Attack,left,182,Chelsea FC,631
+66515,Alex Teixeira,Brazil,Attacking Midfield,Midfield,right,173,Besiktas JK,114
+88590,Shkodran Mustafi,Germany,Centre-Back,Defender,right,184,Levante UD,3368
+119228,Luis Muriel,Colombia,Centre-Forward,Attack,right,179,Atalanta BC,800
+228645,Wout Weghorst,Netherlands,Centre-Forward,Attack,right,197,Besiktas JK,114
+361104,Sergino Dest,,Right-Back,Defender,right,171,AC Milan,5
+360518,Teun Koopmeiners,Netherlands,Defensive Midfield,Midfield,left,183,Atalanta BC,800
+467720,Youssoufa Moukoko,Germany,Centre-Forward,Attack,left,179,Borussia Dortmund,16
+165895,Matteo Politano,Italy,Right Winger,Attack,left,171,SSC Napoli,6195
+537382,Bryan Gil,Spain,Left Winger,Attack,left,175,Tottenham Hotspur,148
+326029,Donyell Malen,,Right Winger,Attack,right,178,Borussia Dortmund,16
+29260,Giorgio Chiellini,Italy,Centre-Back,Defender,left,187,Juventus FC,506
+51152,Aleksandar Mitrovic,Serbia,Centre-Forward,Attack,right,189,Fulham FC,931
+111078,Emil Forsberg,Sweden,Attacking Midfield,Midfield,right,177,RB Leipzig,23826
+282429,Sergio Reguilon,Spain,Left-Back,Defender,left,178,Atletico de Madrid,13
+342385,Guido Rodriguez,Argentina,Defensive Midfield,Midfield,right,185,Real Betis Balompie,150
+278359,Borja Iglesias,Spain,Centre-Forward,Attack,right,187,Real Betis Balompie,150
+7663,Joaquin,Spain,Right Winger,Attack,right,181,Real Betis Balompie,150
+174694,Rony Lopes,Portugal,Right Winger,Attack,left,174,ESTAC Troyes,1095
+434224,Maxence Lacroix,France,Centre-Back,Defender,right,190,VfL Wolfsburg,82
+730893,Tyrick Mitchell,England,Left-Back,Defender,left,175,Crystal Palace,873
+666234,Mohamed Simakan,France,Centre-Back,Defender,right,187,RB Leipzig,23826
+339556,Rico Henry,England,Left-Back,Defender,left,170,Brentford FC,1148
+262226,Timothy Castagne,Belgium,Right-Back,Defender,right,185,Leicester City,1003
+45124,Medhi Benatia,Morocco,Centre-Back,Defender,right,190,Fatih Karagümrük,6646
+513245,Jesper Lindstrom,Denmark,Attacking Midfield,Midfield,right,182,Eintracht Frankfurt,24
+33713,Theo Walcott,England,Right Winger,Attack,both,175,Southampton FC,180
+173504,James Tarkowski,England,Centre-Back,Defender,right,185,Everton FC,29
+340456,Noussair Mazraoui,Morocco,Right-Back,Defender,right,183,Bayern Munich,27
+344605,Boubakary Soumare,France,Defensive Midfield,Midfield,right,188,Leicester City,1003
+808509,Danilo,Brazil,Defensive Midfield,Midfield,left,177,Nottingham Forest,703
+34322,Sokratis Papastathopoulos,Greece,Centre-Back,Defender,right,186,Olympiacos Piraeus,683
+174094,Morgan Sanson,France,Central Midfield,Midfield,right,180,Aston Villa,405
+319301,Daniel James,Wales,Right Winger,Attack,right,171,Leeds United,399
+371256,Tetè,Brazil,Right Winger,Attack,left,175,Leicester City,1003
+68864,Kevin Strootman,Netherlands,Central Midfield,Midfield,left,186,Cagliari Calcio,1390
+129473,Rafinha,Brazil,Attacking Midfield,Midfield,left,174,Real Sociedad,681
+86784,Ricardo Rodriguez,,Centre-Back,Defender,left,180,Torino FC,416
+205938,Mario Pasalic,Croatia,Attacking Midfield,Midfield,right,188,Atalanta BC,800
+417346,Jack Harrison,England,Left Winger,Attack,left,175,Leeds United,399
+321528,Denzel Dumfries,Netherlands,Right Midfield,Midfield,right,188,Inter Milan,46
+709726,Hugo Ekitike,France,Centre-Forward,Attack,right,189,Paris Saint-Germain,583
+486049,Jeremy Doku,Belgium,Right Winger,Attack,right,173,Stade Rennais FC,273
+91849,Thomas Delaney,Denmark,Central Midfield,Midfield,left,182,TSG 1899 Hoffenheim,533
+223979,Xaver Schlager,Austria,Central Midfield,Midfield,left,174,RB Leipzig,23826
+25488,Antonio Candreva,Italy,Right Midfield,Midfield,right,180,UC Sampdoria,1038
+148153,Lewis Dunk,England,Centre-Back,Defender,right,192,Brighton & Hove Albion,1237
+82442,Olivier Giroud,France,Centre-Forward,Attack,left,192,AC Milan,5
+64339,Pizzi,Portugal,Attacking Midfield,Midfield,right,177,SC Braga,1075
+371371,Marash Kumbulla,Albania,Centre-Back,Defender,right,191,AS Roma,12
+14086,Ashley Young,England,Right-Back,Defender,both,175,Aston Villa,405
+18644,Alvaro Negredo,Spain,Centre-Forward,Attack,left,186,Cádiz CF,2687
+118689,Leonardo Spinazzola,Italy,Left-Back,Defender,right,186,AS Roma,12
+400489,Eljif Elmas,North Macedonia,Central Midfield,Midfield,right,182,SSC Napoli,6195
+315063,Nahitan Nandez,Uruguay,Central Midfield,Midfield,right,172,Cagliari Calcio,1390
+318204,David Raum,Germany,Left-Back,Defender,left,180,RB Leipzig,23826
+36139,Dusan Tadic,Serbia,Left Winger,Attack,left,181,Ajax Amsterdam,610
+261905,Suat Serdar,Germany,Central Midfield,Midfield,right,184,Hertha BSC,44
+418543,Perr Schuurs,Netherlands,Centre-Back,Defender,right,191,Torino FC,416
+423436,Santiago Ascacibar,Argentina,Defensive Midfield,Midfield,right,168,US Cremonese,2239
+425918,Jakub Kiwior,Poland,Centre-Back,Defender,left,189,Spezia Calcio,3522
+262980,Jefferson Lerma,Colombia,Defensive Midfield,Midfield,right,179,AFC Bournemouth,989
+339332,Noa Lang,Netherlands,Left Winger,Attack,right,170,Club Brugge KV,2282
+395237,Maxence Caqueret,France,Central Midfield,Midfield,right,174,Olympique Lyon,1041
+475188,Kiernan Dewsbury-Hall,England,Central Midfield,Midfield,left,178,Leicester City,1003
+69015,Andriy Yarmolenko,Ukraine,Right Winger,Attack,left,189,West Ham United,379
+76061,Sime Vrsaljko,Croatia,Right-Back,Defender,right,181,Olympiacos Piraeus,683
+81808,Wilfried Bony,Cote d'Ivoire,Centre-Forward,Attack,right,183,NEC Nijmegen,467
+188911,Shoya Nakajima,Japan,Attacking Midfield,Midfield,right,164,Antalyaspor,589
+119235,Carlos Bacca,Colombia,Centre-Forward,Attack,right,181,Granada CF,16795
+216569,Jeremie Boga,Cote d'Ivoire,Left Winger,Attack,right,174,Atalanta BC,800
+246291,Diego Llorente,Spain,Centre-Back,Defender,right,186,AS Roma,12
+327251,Ridle Baku,,Right-Back,Defender,right,176,VfL Wolfsburg,82
+346707,Sean Longstaff,England,Central Midfield,Midfield,right,187,Newcastle United,762
+413220,James Justin,,Right-Back,Defender,right,183,Leicester City,1003
+552955,Santiago Gimenez,Mexico,Centre-Forward,Attack,left,182,Feyenoord Rotterdam,234
+12282,Daley Blind,Netherlands,Left-Back,Defender,left,180,Bayern Munich,27
+32113,Armando Izzo,Italy,Centre-Back,Defender,right,183,AC Monza,2919
+59344,Asier Illarramendi,Spain,Defensive Midfield,Midfield,right,179,Real Sociedad,681
+292818,Jonathan Bamba,Cote d'Ivoire,Left Winger,Attack,right,175,LOSC Lille,1082
+425334,Matty Cash,Poland,Right-Back,Defender,right,185,Aston Villa,405
+512385,Luis Sinisterra,,Left Winger,Attack,right,172,Leeds United,399
+520662,Pepe,Brazil,Left Winger,Attack,right,175,FC Porto,720
+627221,Gabriel Veron,,Right Winger,Attack,right,176,FC Porto,720
+135617,Thiago Mendes,Brazil,Defensive Midfield,Midfield,right,177,Olympique Lyon,1041
+243028,Jan Bednarek,Poland,Centre-Back,Defender,right,189,Aston Villa,405
+420210,Lutsharel Geertruida,Netherlands,Right-Back,Defender,right,184,Feyenoord Rotterdam,234
+473050,Kevin Schade,Germany,Right Winger,Attack,right,185,Brentford FC,1148
+27389,Kevin Gameiro,France,Centre-Forward,Attack,right,172,RC Strasbourg Alsace,667
+143812,Matias Vecino,Uruguay,Central Midfield,Midfield,right,187,SS Lazio,398
+238266,Duje Caleta-Car,,Centre-Back,Defender,right,192,Southampton FC,180
+290249,Mauro Arambarri,Uruguay,Central Midfield,Midfield,right,175,Getafe CF,3709
+401578,Exequiel Palacios,Argentina,Central Midfield,Midfield,right,177,Bayer 04 Leverkusen,15
+303116,Gaetano Castrovilli,,Central Midfield,Midfield,right,187,ACF Fiorentina,430
+348026,Nordi Mukiele,France,Right-Back,Defender,right,187,Paris Saint-Germain,583
+466805,Nico Gonzalez,Spain,Central Midfield,Midfield,right,188,Valencia CF,1049
+502676,Giorgi Mamardashvili,,Goalkeeper,Goalkeeper,left,197,Valencia CF,1049
+585959,Arnaud Kalimuendo,France,Centre-Forward,Attack,right,175,Stade Rennais FC,273
+612826,Silas,DR Congo,Right Winger,Attack,right,189,VfB Stuttgart,79
+627226,Reinier,Brazil,Attacking Midfield,Midfield,right,185,Girona FC,12321
+72047,Iago Aspas,,Centre-Forward,Attack,left,176,Celta de Vigo,940
+86792,Xherdan Shaqiri,Switzerland,Attacking Midfield,Midfield,left,169,Olympique Lyon,1041
+127048,Cedric Bakambu,DR Congo,Centre-Forward,Attack,right,182,Olympiacos Piraeus,683
+222209,Thomas Strakosha,Albania,Goalkeeper,Goalkeeper,right,193,Brentford FC,1148
+290532,Said Benrahma,Algeria,Left Winger,Attack,right,172,West Ham United,379
+369567,Sasa Kalajdzic,Austria,Centre-Forward,Attack,right,200,Wolverhampton Wanderers,543
+314678,Brahim Diaz,Spain,Attacking Midfield,Midfield,both,170,AC Milan,5
+262523,Davide Calabria,,Right-Back,Defender,right,176,AC Milan,5
+626913,Boulaye Dia,Senegal,Centre-Forward,Attack,right,180,US Salernitana 1919,380
+58949,Yevgen Konoplyanka,Ukraine,Attacking Midfield,Midfield,right,176,Shakhtar Donetsk,660
+126656,Faouzi Ghoulam,Algeria,Left-Back,Defender,left,184,Angers SCO,1420
+199248,Bryan Cristante,Italy,Defensive Midfield,Midfield,right,186,AS Roma,12
+200056,Elseid Hysaj,Albania,Right-Back,Defender,right,182,SS Lazio,398
+256977,Daniel Podence,Portugal,Left Winger,Attack,right,165,Wolverhampton Wanderers,543
+341051,Kyle Walker-Peters,England,Right-Back,Defender,right,173,Southampton FC,180
+343475,Ben Godfrey,,Centre-Back,Defender,right,184,Everton FC,29
+394300,Davide Frattesi,Italy,Central Midfield,Midfield,right,178,US Sassuolo,6574
+428791,Paulinho,Brazil,Left Winger,Attack,right,177,Bayer 04 Leverkusen,15
+282388,Giovanni Simeone,Argentina,Centre-Forward,Attack,right,180,SSC Napoli,6195
+74300,Luka Milivojevic,Serbia,Defensive Midfield,Midfield,right,186,Crystal Palace,873
+127187,Abdoulaye Doucoure,Mali,Central Midfield,Midfield,right,183,Everton FC,29
+251106,Enes Unal,Turkey,Centre-Forward,Attack,right,187,Getafe CF,3709
+413403,Ezri Konsa,England,Centre-Back,Defender,right,183,Aston Villa,405
+569598,Youssouf Fofana,France,Central Midfield,Midfield,right,185,AS Monaco,162
+617074,Ilaix Moriba,Guinea,Central Midfield,Midfield,right,185,Valencia CF,1049
+620322,Malo Gusto,France,Right-Back,Defender,right,178,Olympique Lyon,1041
+212847,Adam Webster,England,Centre-Back,Defender,right,190,Brighton & Hove Albion,1237
+505653,Fabio Silva,Portugal,Centre-Forward,Attack,right,185,PSV Eindhoven,383
+145707,Danilo,Brazil,Centre-Back,Defender,right,184,Juventus FC,506
+195736,Florian Grillitsch,Austria,Defensive Midfield,Midfield,right,187,Ajax Amsterdam,610
+212862,Alex Remiro,,Goalkeeper,Goalkeeper,right,191,Real Sociedad,681
+240692,Reinildo Mandava,Mozambique,Left-Back,Defender,left,180,Atletico de Madrid,13
+368482,Riccardo Orsolini,Italy,Right Winger,Attack,left,183,Bologna FC 1909,1025
+374139,Junior Firpo,,Left-Back,Defender,left,184,Leeds United,399
+404418,David Hancko,Slovakia,Centre-Back,Defender,left,188,Feyenoord Rotterdam,234
+416108,Youcef Atal,,Right-Back,Defender,both,176,OGC Nice,417
+162038,Raul de Tomas,Spain,Centre-Forward,Attack,right,180,Rayo Vallecano,367
+221316,Lucas Vazquez,Spain,Right-Back,Defender,right,173,Real Madrid,418
+277114,Jason Denayer,Belgium,Centre-Back,Defender,right,184,Olympique Lyon,1041
+326300,Jeff Reine-Adelaide,France,Attacking Midfield,Midfield,right,184,ESTAC Troyes,1095
+331511,Riqui Puig,Spain,Central Midfield,Midfield,right,169,FC Barcelona,131
+811779,Alejandro Garnacho,Argentina,Left Winger,Attack,right,180,Manchester United,985
+4188,Ricardo Quaresma,Portugal,Right Winger,Attack,right,175,Vitória Guimarães SC,2420
+332697,Weston McKennie,United States,Central Midfield,Midfield,right,185,Juventus FC,506
+404842,Vitaliy Mykolenko,Ukraine,Left-Back,Defender,left,180,Everton FC,29
+591949,Aaron Hickey,Scotland,Right-Back,Defender,both,185,Brentford FC,1148
+61253,Jose Callejon,Spain,Right Winger,Attack,right,178,ACF Fiorentina,430
+129588,Dennis Praet,Belgium,Central Midfield,Midfield,right,181,Leicester City,1003
+295313,Taiwo Awoniyi,,Centre-Forward,Attack,right,183,Nottingham Forest,703
+340324,Eddie Nketiah,,Centre-Forward,Attack,right,175,Arsenal FC,11
+503991,Yunus Musah,United States,Central Midfield,Midfield,right,178,Valencia CF,1049
+618472,Castello Lukeba,France,Centre-Back,Defender,left,184,Olympique Lyon,1041
+56810,Adrien Silva,Portugal,Central Midfield,Midfield,right,175,UC Sampdoria,1038
+148252,Remo Freuler,Switzerland,Central Midfield,Midfield,right,180,Nottingham Forest,703
+480763,Juan Foyth,Argentina,Right-Back,Defender,right,187,Villarreal CF,1050
+279455,Harry Wilson,Wales,Right Winger,Attack,left,173,Fulham FC,931
+353948,Lucas Tousart,France,Defensive Midfield,Midfield,right,185,Hertha BSC,44
+583189,Anthony Elanga,Sweden,Left Winger,Attack,right,178,Manchester United,985
+584769,Dwight McNeil,England,Left Winger,Attack,left,183,Everton FC,29
+823231,Dango Ouattara,Burkina Faso,Right Winger,Attack,left,177,AFC Bournemouth,989
+130360,Simone Verdi,Italy,Attacking Midfield,Midfield,both,174,Hellas Verona,276
+174915,Islam Slimani,Algeria,Centre-Forward,Attack,right,188,Stade Brestois 29,3911
+197470,Mattia Caldara,,Centre-Back,Defender,right,187,Spezia Calcio,3522
+264372,Viktor Tsygankov,Ukraine,Right Winger,Attack,left,178,Dynamo Kyiv,338
+69683,Alan Dzagoev,Russia,Central Midfield,Midfield,right,179,CSKA Moscow,2410
+180337,Sardar Azmoun,Iran,Centre-Forward,Attack,both,186,Bayer 04 Leverkusen,15
+46001,Moussa Sissoko,France,Central Midfield,Midfield,right,187,FC Nantes,995
+192765,Ben Davies,Wales,Left-Back,Defender,left,181,Tottenham Hotspur,148
+330659,Justin Kluivert,Netherlands,Left Winger,Attack,both,172,Valencia CF,1049
+503981,Tino Livramento,England,Right-Back,Defender,right,173,Southampton FC,180
+60561,Anthony Lopes,Portugal,Goalkeeper,Goalkeeper,left,184,Olympique Lyon,1041
+66106,Sergio Canales,Spain,Attacking Midfield,Midfield,left,178,Real Betis Balompie,150
+96828,Simone Zaza,Italy,Centre-Forward,Attack,left,186,Torino FC,416
+120095,Jose Campana,Spain,Central Midfield,Midfield,right,179,Levante UD,3368
+128901,Conor Coady,England,Centre-Back,Defender,right,185,Everton FC,29
+228433,Wendell,,Left-Back,Defender,left,176,FC Porto,720
+273152,Nemanja Maksimovic,,Central Midfield,Midfield,right,184,Getafe CF,3709
+43530,Adam Lallana,England,Attacking Midfield,Midfield,both,172,Brighton & Hove Albion,1237
+331560,Takehiro Tomiyasu,Japan,Right-Back,Defender,right,188,Arsenal FC,11
+495629,Hugo Guillamon,Spain,Defensive Midfield,Midfield,right,178,Valencia CF,1049
+129476,Gerard Deulofeu,Spain,Centre-Forward,Attack,right,177,Udinese Calcio,410
+556385,Destiny Udogie,Italy,Left-Back,Defender,left,188,Udinese Calcio,410
+257732,Amir Rrahmani,,Centre-Back,Defender,both,192,SSC Napoli,6195
+85867,Nico Schulz,Germany,Left-Back,Defender,left,180,Borussia Dortmund,16
+169880,Giovanni Di Lorenzo,Italy,Right-Back,Defender,right,183,SSC Napoli,6195
+264956,Jean-Kevin Augustin,France,Centre-Forward,Attack,right,179,FC Nantes,995
+595809,Beto,Portugal,Centre-Forward,Attack,right,194,Udinese Calcio,410
+40204,Joe Hart,England,Goalkeeper,Goalkeeper,right,196,Celtic FC,371
+324278,Christoph Baumgartner,Austria,Attacking Midfield,Midfield,right,180,TSG 1899 Hoffenheim,533
+28021,Samir Handanovic,,Goalkeeper,Goalkeeper,right,193,Inter Milan,46
+57280,Giacomo Bonaventura,Italy,Central Midfield,Midfield,right,180,ACF Fiorentina,430
+74869,Francis Coquelin,France,Defensive Midfield,Midfield,right,177,Villarreal CF,1050
+499721,Wendel,Brazil,Central Midfield,Midfield,right,180,Zenit St. Petersburg,964
+626724,Joao Pedro,Brazil,Centre-Forward,Attack,right,182,Watford FC,1010
+182381,Quincy Promes,Netherlands,Left Winger,Attack,right,174,Spartak Moscow,232
+296397,Arne Maier,Germany,Central Midfield,Midfield,right,186,FC Augsburg,167
+402008,Amadou Haidara,Mali,Central Midfield,Midfield,right,175,RB Leipzig,23826
+286415,Pau Lopez,Spain,Goalkeeper,Goalkeeper,left,189,Olympique Marseille,244
+133179,Marten de Roon,Netherlands,Defensive Midfield,Midfield,right,185,Atalanta BC,800
+644771,Odilon Kossounou,Cote d'Ivoire,Centre-Back,Defender,right,191,Bayer 04 Leverkusen,15
+16922,Kevin-Prince Boateng,Ghana,Attacking Midfield,Midfield,right,186,Hertha BSC,44
+283196,Kasper Dolberg,Denmark,Centre-Forward,Attack,right,187,TSG 1899 Hoffenheim,533
+355501,Amadou Diawara,,Defensive Midfield,Midfield,right,183,RSC Anderlecht,58
+112935,Mark Uth,Germany,Centre-Forward,Attack,left,185,1.FC Köln,3
+293194,Borna Sosa,Croatia,Left-Back,Defender,left,187,VfB Stuttgart,79
+331401,Manuel Lazzari,Italy,Right-Back,Defender,right,174,SS Lazio,398
+161869,Djibril Sidibe,France,Right-Back,Defender,right,183,AEK Athens,2441
+126710,Layvin Kurzawa,France,Left-Back,Defender,left,182,Fulham FC,931
+45671,Cenk Tosun,Turkey,Centre-Forward,Attack,right,183,Besiktas JK,114
+237662,Breel Embolo,Switzerland,Centre-Forward,Attack,right,187,AS Monaco,162
+18829,Vagner Love,Brazil,Centre-Forward,Attack,both,172,FC Midtjylland,865
+76277,Laurent Koscielny,France,Centre-Back,Defender,right,186,FC Girondins Bordeaux,40
+99922,Marc Bartra,,Centre-Back,Defender,right,184,Trabzonspor,449
+332341,Todd Cantwell,England,Left Midfield,Midfield,right,180,Rangers FC,124
+56331,Bas Dost,Netherlands,Centre-Forward,Attack,right,196,FC Utrecht,200
+263236,Kevin Danso,Austria,Centre-Back,Defender,right,190,RC Lens,826
+420002,Jean-Philippe Mateta,France,Centre-Forward,Attack,right,192,Crystal Palace,873
+457931,Luiz Felipe,,Centre-Back,Defender,right,187,Real Betis Balompié,150
+746695,Kamaldeen Sulemana,,Left Winger,Attack,right,175,Southampton FC,180
+80351,Josip Ilicic,Slovenia,Attacking Midfield,Midfield,left,190,Atalanta BC,800
+81785,Shinji Kagawa,Japan,Attacking Midfield,Midfield,right,175,Sint-Truidense VV,475
+143559,Matija Nastasic,Serbia,Centre-Back,Defender,left,188,ACF Fiorentina,430
+7825,Pepe Reina,Spain,Goalkeeper,Goalkeeper,right,188,Villarreal CF,1050
+346779,Che Adams,Scotland,Centre-Forward,Attack,right,179,Southampton FC,180
+538977,Georginio Rutter,France,Centre-Forward,Attack,left,182,Leeds United,399
+134294,Danny Ings,England,Centre-Forward,Attack,right,177,West Ham United,379
+162959,Daniele Rugani,Italy,Centre-Back,Defender,right,190,Juventus FC,506
+165513,Berat Djimsiti,Albania,Centre-Back,Defender,right,190,Atalanta BC,800
+183334,Patrick Bamford,England,Centre-Forward,Attack,left,185,Leeds United,399
+356197,Alfonso Pedraza,Spain,Left-Back,Defender,left,184,Villarreal CF,1050
+332889,Valentin Rongier,France,Central Midfield,Midfield,right,172,Olympique Marseille,244
+365172,Patson Daka,Zambia,Centre-Forward,Attack,right,183,Leicester City,1003
+578391,Rayan Ait-Nouri,Algeria,Left-Back,Defender,left,180,Wolverhampton Wanderers,543
+182932,Davy Klaassen,Netherlands,Attacking Midfield,Midfield,right,179,Ajax Amsterdam,610
+225020,Mariano Diaz,Dominican Republic,Centre-Forward,Attack,right,180,Real Madrid,418
+289592,Orel Mangala,,Central Midfield,Midfield,right,178,Nottingham Forest,703
+471690,Max Aarons,England,Right-Back,Defender,right,171,Norwich City,1123
+542586,Illan Meslier,France,Goalkeeper,Goalkeeper,left,197,Leeds United,399
+711337,Evanilson,,Centre-Forward,Attack,both,183,FC Porto,720
+70243,Marcel Halstenberg,Germany,Left-Back,Defender,left,188,RB Leipzig,23826
+341705,Gerson,,Central Midfield,Midfield,left,184,Olympique Marseille,244
+368891,Arthur Theate,Belgium,Centre-Back,Defender,left,185,Stade Rennais FC,273
+391065,Hamed Junior Traore,Cote d'Ivoire,Attacking Midfield,Midfield,right,177,AFC Bournemouth,989
+469781,Marcos Senesi,Argentina,Centre-Back,Defender,left,185,AFC Bournemouth,989
+319859,Mathias Jensen,Denmark,Central Midfield,Midfield,right,180,Brentford FC,1148
+337800,Gedson Fernandes,Portugal,Central Midfield,Midfield,right,183,Besiktas JK,114
+537844,Anatoliy Trubin,Ukraine,Goalkeeper,Goalkeeper,right,199,Shakhtar Donetsk,660
+53418,Kevin Kampl,Slovenia,Central Midfield,Midfield,right,178,RB Leipzig,23826
+128899,Jack Butland,England,Goalkeeper,Goalkeeper,right,196,Manchester United,985
+292417,Demarai Gray,Jamaica,Left Winger,Attack,right,183,Everton FC,29
+469050,Nathan Collins,Ireland,Centre-Back,Defender,right,193,Wolverhampton Wanderers,543
+61087,Karim Bellarabi,Germany,Right Winger,Attack,right,184,Bayer 04 Leverkusen,15
+10471,Luiz Gustavo,Brazil,Defensive Midfield,Midfield,left,187,Fenerbahce,36
+258919,Dean Henderson,England,Goalkeeper,Goalkeeper,right,188,Nottingham Forest,703
+389837,Nicolo Casale,Italy,Centre-Back,Defender,right,191,SS Lazio,398
+586853,Vitinha,Portugal,Centre-Forward,Attack,right,178,Olympique Marseille,244
+122043,Hector Herrera,Mexico,Central Midfield,Midfield,right,180,Atletico de Madrid,13
+212723,Djibril Sow,Switzerland,Central Midfield,Midfield,right,184,Eintracht Frankfurt,24
+272855,Paul Onuachu,Nigeria,Centre-Forward,Attack,right,201,Southampton FC,180
+346314,Trevoh Chalobah,England,Centre-Back,Defender,right,192,Chelsea FC,631
+232454,Nadiem Amiri,,Central Midfield,Midfield,right,180,Bayer 04 Leverkusen,15
+217115,Neal Maupay,,Centre-Forward,Attack,right,173,Everton FC,29
+337725,Christian Kouame,Cote d'Ivoire,Centre-Forward,Attack,right,185,ACF Fiorentina,430
+552549,Matheus Henrique,Brazil,Central Midfield,Midfield,right,175,US Sassuolo,6574
+54235,Iker Muniain,Spain,Attacking Midfield,Midfield,right,169,Athletic Bilbao,621
+387106,Lovro Majer,Croatia,Central Midfield,Midfield,left,178,Stade Rennais FC,273
+503638,Mohamed Ihattaren,,Attacking Midfield,Midfield,left,183,Juventus FC,506
+474800,Facundo Medina,Argentina,Centre-Back,Defender,left,184,RC Lens,826
+557149,Kang-in Lee,"Korea, South",Attacking Midfield,Midfield,left,173,RCD Mallorca,237
+149498,Gabriel Paulista,Brazil,Centre-Back,Defender,right,187,Valencia CF,1049
+209212,Solly March,England,Right Winger,Attack,left,180,Brighton & Hove Albion,1237
+284732,Ramy Bensebaini,Algeria,Left-Back,Defender,left,187,Borussia Mönchengladbach,18
+339340,Tyrell Malacia,Netherlands,Left-Back,Defender,left,169,Manchester United,985
+660867,Julio Enciso,,Second Striker,Attack,right,173,Brighton & Hove Albion,1237
+25508,Salvatore Sirigu,Italy,Goalkeeper,Goalkeeper,right,192,ACF Fiorentina,430
+14221,Aaron Lennon,England,Right Winger,Attack,right,165,Burnley FC,1132
+85177,Nathaniel Clyne,,Right-Back,Defender,right,175,Crystal Palace,873
+303259,Dodi Lukebakio,Belgium,Right Winger,Attack,left,187,Hertha BSC,44
+3333,James Milner,England,Central Midfield,Midfield,right,175,Liverpool FC,31
+60573,Yann M'Vila,France,Defensive Midfield,Midfield,right,183,Olympiacos Piraeus,683
+490426,Krepin Diatta,Senegal,Right Winger,Attack,right,175,AS Monaco,162
+52312,Sebastian Giovinco,Italy,Second Striker,Attack,right,164,UC Sampdoria,1038
+59866,Victor Moses,Nigeria,Right Midfield,Midfield,right,177,Spartak Moscow,232
+75471,Yannick Bolasie,DR Congo,Left Winger,Attack,right,185,Caykur Rizespor,126
+126719,Juan Bernat,Spain,Left-Back,Defender,left,170,Paris Saint-Germain,583
+197471,Roberto Gagliardini,Italy,Central Midfield,Midfield,right,188,Inter Milan,46
+245537,Nabil Bentaleb,Algeria,Central Midfield,Midfield,left,187,Angers SCO,1420
+354741,Loren Moron,Spain,Centre-Forward,Attack,right,185,Real Betis Balompié,150
+410708,Pascal Struijk,Netherlands,Left-Back,Defender,left,190,Leeds United,399
+12907,Alessio Cragno,Italy,Goalkeeper,Goalkeeper,right,184,AC Monza,2919
+61812,Yuri Berchiche,,Left-Back,Defender,left,181,Athletic Bilbao,621
+80293,Aissa Mandi,Algeria,Centre-Back,Defender,right,184,Villarreal CF,1050
+73491,Danny Drinkwater,England,Central Midfield,Midfield,right,178,Chelsea FC,631
+193098,Alex Moreno,Spain,Left-Back,Defender,left,179,Aston Villa,405
+272261,Antonin Barak,,Attacking Midfield,Midfield,left,190,ACF Fiorentina,430
+292808,Wout Faes,Belgium,Centre-Back,Defender,right,187,Leicester City,1003
+466794,Eric Garcia,Spain,Centre-Back,Defender,right,182,FC Barcelona,131
+467992,Samuele Ricci,Italy,Defensive Midfield,Midfield,right,180,Torino FC,416
+559263,Fabio Carvalho,Portugal,Attacking Midfield,Midfield,right,170,Liverpool FC,31
+288225,Ludovic Blas,France,Attacking Midfield,Midfield,left,180,FC Nantes,995
+117996,Phil Jones,England,Centre-Back,Defender,right,185,Manchester United,985
+175169,Bernard,Brazil,Left Winger,Attack,right,164,Panathinaikos Athens,265
+242359,Juan Musso,Argentina,Goalkeeper,Goalkeeper,right,191,Atalanta BC,800
+293281,Jacob Bruun Larsen,Denmark,Left Winger,Attack,right,183,TSG 1899 Hoffenheim,533
+420064,Caio Henrique,,Left-Back,Defender,left,178,AS Monaco,162
+73250,Mario Gaspar,Spain,Right-Back,Defender,right,180,Villarreal CF,1050
+148368,Divock Origi,Belgium,Centre-Forward,Attack,right,189,AC Milan,5
+201040,Marco Benassi,Italy,Central Midfield,Midfield,right,184,ACF Fiorentina,430
+261927,Ricardo Horta,Portugal,Left Winger,Attack,right,173,SC Braga,1075
+289059,Mykola Matvienko,Ukraine,Centre-Back,Defender,left,182,Shakhtar Donetsk,660
+357162,Florentino,Portugal,Defensive Midfield,Midfield,right,184,SL Benfica,294
+633992,Enzo Le Fee,France,Attacking Midfield,Midfield,right,170,FC Lorient,1158
+701057,Rico Lewis,,Right-Back,Defender,right,169,Manchester City,281
+127032,Serge Aurier,,Right-Back,Defender,right,176,Nottingham Forest,703
+245014,Enis Bardhi,,Attacking Midfield,Midfield,right,172,Trabzonspor,449
+249089,Lewis Cook,England,Central Midfield,Midfield,right,175,AFC Bournemouth,989
+36350,Javi Garcia,Spain,Defensive Midfield,Midfield,right,187,Boavista FC,2503
+40611,Ryan Bertrand,England,Left-Back,Defender,left,179,Leicester City,1003
+103427,Chris Smalling,England,Centre-Back,Defender,right,194,AS Roma,12
+129078,Nathan Redmond,England,Right Winger,Attack,right,173,Besiktas JK,114
+548111,Alex Baena,Spain,Attacking Midfield,Midfield,right,174,Villarreal CF,1050
+127076,Jerome Roussillon,Guadeloupe,Left-Back,Defender,left,172,1.FC Union Berlin,89
+144303,Lazar Markovic,Serbia,Right Winger,Attack,right,175,Gaziantep FK,2832
+409344,Calvin Stengs,Netherlands,Right Winger,Attack,left,182,OGC Nice,417
+498237,David Carmo,Portugal,Centre-Back,Defender,left,196,FC Porto,720
+503680,Neco Williams,Wales,Right-Back,Defender,right,183,Nottingham Forest,703
+607854,Ederson,Brazil,Central Midfield,Midfield,right,183,Atalanta BC,800
+36371,Nikola Kalinic,Croatia,Centre-Forward,Attack,both,187,Hellas Verona,276
+54984,Diego Perotti,Argentina,Left Winger,Attack,right,179,US Salernitana 1919,380
+60577,Nicolas N'Koulou,Cameroon,Centre-Back,Defender,right,184,Aris Thessaloniki,605
+113133,German Pezzella,Argentina,Centre-Back,Defender,right,187,Real Betis Balompié,150
+143798,Pavel Kaderabek,Czech Republic,Right-Back,Defender,right,182,TSG 1899 Hoffenheim,533
+173859,Davide Zappacosta,Italy,Right-Back,Defender,right,182,Atalanta BC,800
+197838,Jamie Vardy,England,Centre-Forward,Attack,right,179,Leicester City,1003
+203348,Chancel Mbemba,DR Congo,Centre-Back,Defender,right,182,Olympique Marseille,244
+238407,Alexander Sorloth,Norway,Centre-Forward,Attack,left,195,RB Leipzig,23826
+320411,Philip Billing,,Central Midfield,Midfield,left,193,AFC Bournemouth,989
+323831,Rafael Borre,Colombia,Centre-Forward,Attack,right,174,Eintracht Frankfurt,24
+332179,Matteo Pessina,Italy,Central Midfield,Midfield,left,187,AC Monza,2919
+94005,Sead Kolasinac,Bosnia-Herzegovina,Left-Back,Defender,left,183,Olympique Marseille,244
+120443,Santiago Arias,Colombia,Right-Back,Defender,right,177,Granada CF,16795
+202591,Benjamin Henrichs,Germany,Right-Back,Defender,right,185,RB Leipzig,23826
+270171,Vitaly Janelt,Germany,Defensive Midfield,Midfield,left,184,Brentford FC,1148
+295330,Kelechi Iheanacho,Nigeria,Centre-Forward,Attack,left,185,Leicester City,1003
+403315,Claudinho,Brazil,Attacking Midfield,Midfield,right,170,Zenit St. Petersburg,964
+257668,Wilmar Barrios,,Defensive Midfield,Midfield,right,178,Zenit St. Petersburg,964
+45026,Rui Patricio,Portugal,Goalkeeper,Goalkeeper,left,190,AS Roma,12
+99353,Portu,Spain,Right Winger,Attack,right,167,Getafe CF,3709
+223367,Fredrik Aursnes,,Defensive Midfield,Midfield,right,179,SL Benfica,294
+225657,Philipp Lienhart,Austria,Centre-Back,Defender,right,189,SC Freiburg,60
+307058,Mehdi Taremi,Iran,Centre-Forward,Attack,right,185,FC Porto,720
+332705,Tyler Adams,United States,Defensive Midfield,Midfield,right,175,Leeds United,399
+375382,Andre Almeida,Portugal,Central Midfield,Midfield,right,176,Valencia CF,1049
+486624,Musa Barrow,The Gambia,Left Winger,Attack,right,184,Bologna FC 1909,1025
+532776,Amine Adli,France,Left Winger,Attack,left,174,Bayer 04 Leverkusen,15
+610083,Unai Vencedor,Spain,Central Midfield,Midfield,right,176,Athletic Bilbao,621
+143891,Maximilian Philipp,Germany,Second Striker,Attack,right,183,SV Werder Bremen,86
+146164,Max Meyer,Germany,Attacking Midfield,Midfield,right,173,Fenerbahce,36
+162434,Niklas Stark,Germany,Centre-Back,Defender,right,190,SV Werder Bremen,86
+99331,Jannik Vestergaard,Denmark,Centre-Back,Defender,both,199,Leicester City,1003
+175446,Jonny Otto,,Left-Back,Defender,both,175,Wolverhampton Wanderers,543
+207302,Sergio Rico,Spain,Goalkeeper,Goalkeeper,right,196,Paris Saint-Germain,583
+396638,Manor Solomon,Israel,Left Winger,Attack,right,170,Fulham FC,931
+432982,Andreas Skov Olsen,Denmark,Right Winger,Attack,left,187,Club Brugge KV,2282
+538874,Terem Moffi,,Centre-Forward,Attack,left,188,OGC Nice,417
+521964,Malick Thiaw,,Centre-Back,Defender,right,194,AC Milan,5
+79422,Keylor Navas,Costa Rica,Goalkeeper,Goalkeeper,right,185,Nottingham Forest,703
+131996,Bertrand Traore,Burkina Faso,Right Winger,Attack,left,181,Basaksehir FK,6890
+196095,Luca Waldschmidt,Germany,Second Striker,Attack,left,181,VfL Wolfsburg,82
+222813,Marko Grujic,Serbia,Defensive Midfield,Midfield,right,191,FC Porto,720
+315865,Andrea Pinamonti,Italy,Centre-Forward,Attack,right,185,US Sassuolo,6574
+348623,Mason Holgate,England,Centre-Back,Defender,right,187,Everton FC,29
+550108,Nicola Zalewski,Poland,Left Midfield,Midfield,both,175,AS Roma,12
+810092,Warren Zavre-Emery,France,Central Midfield,Midfield,right,178,Paris Saint-Germain,583
+178459,Davie Selke,Germany,Centre-Forward,Attack,right,195,Hertha BSC,44
+192080,Nick Pope,England,Goalkeeper,Goalkeeper,right,198,Newcastle United,762
+298589,David Garcia,Spain,Centre-Back,Defender,both,186,CA Osasuna,331
+315604,Diadie Samassekou,Mali,Defensive Midfield,Midfield,right,177,Olympiacos Piraeus,683
+401529,Doda,Brazil,Right-Back,Defender,right,166,ACF Fiorentina,430
+412932,Myron Boadu,,Centre-Forward,Attack,right,181,AS Monaco,162
+467563,Armel Bella-Kotchap,Germany,Centre-Back,Defender,right,190,Southampton FC,180
+569389,Sofiane Diop,France,Left Winger,Attack,right,175,AS Monaco,162
+789082,Vanderson,Brazil,Right-Back,Defender,right,173,AS Monaco,162
+1018259,Gift Orban,,Centre-Forward,Attack,right,178,KAA Gent,157
+16760,Yuriy Zhirkov,Russia,Left-Back,Defender,left,180,FK Khimki,3719
+93740,Willi Orban,Hungary,Centre-Back,Defender,right,186,RB Leipzig,23826
+188854,Manu Trigueros,Spain,Central Midfield,Midfield,right,178,Villarreal CF,1050
+15570,Igor Akinfeev,Russia,Goalkeeper,Goalkeeper,right,187,CSKA Moscow,2410
+386726,Yusuf Yazici,Turkey,Attacking Midfield,Midfield,left,184,Trabzonspor,449
+525287,Carlos Vinicius,Brazil,Centre-Forward,Attack,left,190,Fulham FC,931
+26721,Lucas Biglia,Argentina,Defensive Midfield,Midfield,right,178,Basaksehir FK,6890
+37838,Dejan Lovren,Croatia,Centre-Back,Defender,right,188,Olympique Lyon,1041
+111275,Philipp Max,Germany,Left-Back,Defender,left,177,Eintracht Frankfurt,24
+135853,Manuel Lanzini,Argentina,Attacking Midfield,Midfield,right,167,West Ham United,379
+199258,Andrea Petagna,Italy,Centre-Forward,Attack,left,190,AC Monza,2919
+251075,Zeki Celik,,Right-Back,Defender,right,180,AS Roma,12
+277137,Renato Tapia,Peru,Defensive Midfield,Midfield,right,185,Celta de Vigo,940
+390638,Arthur Cabral,Brazil,Centre-Forward,Attack,right,186,ACF Fiorentina,430
+454121,Galeno,Brazil,Left Winger,Attack,right,179,FC Porto,720
+574671,Strahinja Pavlovic,Serbia,Centre-Back,Defender,left,194,AS Monaco,162
+81455,Juan Iturbe,Paraguay,Left Winger,Attack,left,173,Aris Thessaloniki,605
+108537,Jonas Hector,Germany,Left-Back,Defender,left,185,1.FC Köln,3
+146227,Jasper Cillessen,Netherlands,Goalkeeper,Goalkeeper,right,187,NEC Nijmegen,467
+229804,Aritz Elustondo,Spain,Centre-Back,Defender,right,182,Real Sociedad,681
+317454,Diego Rossi,Uruguay,Left Winger,Attack,right,170,Fenerbahce,36
+381950,Alexis Saelemaekers,Belgium,Right Winger,Attack,right,180,AC Milan,5
+357117,Alban Lafont,France,Goalkeeper,Goalkeeper,right,196,FC Nantes,995
+31095,Nuri Sahin,Turkey,Defensive Midfield,Midfield,left,180,Antalyaspor,589
+251878,Aaron Martin,Spain,Left-Back,Defender,left,180,1.FSV Mainz 05,39
+338285,Unai Nunez,,Centre-Back,Defender,right,186,Celta de Vigo,940
+540941,Mikkel Damsgaard,Denmark,Left Winger,Attack,right,180,Brentford FC,1148
+801734,Mathys Tel,France,Centre-Forward,Attack,right,183,Bayern Munich,27
+50512,Anthony Modeste,France,Centre-Forward,Attack,right,188,1.FC Köln,3
