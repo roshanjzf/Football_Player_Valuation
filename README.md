@@ -18,3 +18,10 @@ Displaying the new table
 ```SQL
 select * from player;
 ```
+
+
+Which are the top 10 clubs by overall market value taken the sum of each club's players? 
+
+```sql
+select current_club_name, sum(market_value_in_eur) as total_market_value from player group by current_club_name order by total_market_value desc limit 10;
+```
